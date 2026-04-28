@@ -1,0 +1,2145 @@
+Date,WTI Spot Price (USD per Barrel),Tanker Count,Price Observation
+2019-01-01,46.17,35,Carried forward from previous date
+2019-01-02,46.31,42,Source observation
+2019-01-03,46.92,50,Source observation
+2019-01-04,47.76,41,Source observation
+2019-01-05,47.76,33,Carried forward from previous date
+2019-01-06,47.76,35,Carried forward from previous date
+2019-01-07,48.27,56,Source observation
+2019-01-08,49.58,31,Source observation
+2019-01-09,52.19,25,Source observation
+2019-01-10,52.42,39,Source observation
+2019-01-11,51.44,42,Source observation
+2019-01-12,51.44,39,Carried forward from previous date
+2019-01-13,51.44,26,Carried forward from previous date
+2019-01-14,50.31,31,Source observation
+2019-01-15,51.80,30,Source observation
+2019-01-16,52.08,40,Source observation
+2019-01-17,51.83,39,Source observation
+2019-01-18,53.60,38,Source observation
+2019-01-19,53.60,34,Carried forward from previous date
+2019-01-20,53.60,47,Carried forward from previous date
+2019-01-21,53.60,38,Carried forward from previous date
+2019-01-22,52.59,38,Source observation
+2019-01-23,52.44,44,Source observation
+2019-01-24,52.94,34,Source observation
+2019-01-25,53.53,34,Source observation
+2019-01-26,53.53,50,Carried forward from previous date
+2019-01-27,53.53,38,Carried forward from previous date
+2019-01-28,51.79,43,Source observation
+2019-01-29,53.07,34,Source observation
+2019-01-30,54.18,36,Source observation
+2019-01-31,53.84,32,Source observation
+2019-02-01,55.29,45,Source observation
+2019-02-02,55.29,31,Carried forward from previous date
+2019-02-03,55.29,37,Carried forward from previous date
+2019-02-04,54.57,37,Source observation
+2019-02-05,53.69,31,Source observation
+2019-02-06,53.94,33,Source observation
+2019-02-07,52.68,36,Source observation
+2019-02-08,52.75,41,Source observation
+2019-02-09,52.75,43,Carried forward from previous date
+2019-02-10,52.75,45,Carried forward from previous date
+2019-02-11,52.43,27,Source observation
+2019-02-12,53.14,34,Source observation
+2019-02-13,53.84,28,Source observation
+2019-02-14,54.40,38,Source observation
+2019-02-15,55.58,43,Source observation
+2019-02-16,55.58,41,Carried forward from previous date
+2019-02-17,55.58,40,Carried forward from previous date
+2019-02-18,55.58,47,Carried forward from previous date
+2019-02-19,56.12,33,Source observation
+2019-02-20,56.90,51,Source observation
+2019-02-21,56.95,40,Source observation
+2019-02-22,57.01,44,Source observation
+2019-02-23,57.01,50,Carried forward from previous date
+2019-02-24,57.01,44,Carried forward from previous date
+2019-02-25,55.32,43,Source observation
+2019-02-26,55.40,29,Source observation
+2019-02-27,56.92,36,Source observation
+2019-02-28,57.21,41,Source observation
+2019-03-01,55.76,50,Source observation
+2019-03-02,55.76,35,Carried forward from previous date
+2019-03-03,55.76,47,Carried forward from previous date
+2019-03-04,56.60,46,Source observation
+2019-03-05,56.55,41,Source observation
+2019-03-06,56.22,52,Source observation
+2019-03-07,56.60,43,Source observation
+2019-03-08,55.77,46,Source observation
+2019-03-09,55.77,46,Carried forward from previous date
+2019-03-10,55.77,36,Carried forward from previous date
+2019-03-11,56.79,25,Source observation
+2019-03-12,56.89,39,Source observation
+2019-03-13,58.27,41,Source observation
+2019-03-14,58.59,38,Source observation
+2019-03-15,58.51,36,Source observation
+2019-03-16,58.51,36,Carried forward from previous date
+2019-03-17,58.51,41,Carried forward from previous date
+2019-03-18,59.09,47,Source observation
+2019-03-19,59.12,44,Source observation
+2019-03-20,60.12,43,Source observation
+2019-03-21,59.98,46,Source observation
+2019-03-22,58.87,41,Source observation
+2019-03-23,58.87,30,Carried forward from previous date
+2019-03-24,58.87,40,Carried forward from previous date
+2019-03-25,58.71,30,Source observation
+2019-03-26,59.87,33,Source observation
+2019-03-27,59.39,39,Source observation
+2019-03-28,59.29,49,Source observation
+2019-03-29,60.19,48,Source observation
+2019-03-30,60.19,71,Carried forward from previous date
+2019-03-31,60.19,41,Carried forward from previous date
+2019-04-01,61.59,43,Source observation
+2019-04-02,62.53,30,Source observation
+2019-04-03,62.46,37,Source observation
+2019-04-04,62.12,38,Source observation
+2019-04-05,63.10,51,Source observation
+2019-04-06,63.10,51,Carried forward from previous date
+2019-04-07,63.10,44,Carried forward from previous date
+2019-04-08,64.37,49,Source observation
+2019-04-09,64.05,59,Source observation
+2019-04-10,64.62,34,Source observation
+2019-04-11,63.61,40,Source observation
+2019-04-12,63.86,49,Source observation
+2019-04-13,63.86,42,Carried forward from previous date
+2019-04-14,63.86,35,Carried forward from previous date
+2019-04-15,63.43,46,Source observation
+2019-04-16,64.01,50,Source observation
+2019-04-17,63.74,48,Source observation
+2019-04-18,64.02,59,Source observation
+2019-04-19,64.02,62,Carried forward from previous date
+2019-04-20,64.02,59,Carried forward from previous date
+2019-04-21,64.02,47,Carried forward from previous date
+2019-04-22,65.66,40,Source observation
+2019-04-23,66.24,41,Source observation
+2019-04-24,65.96,45,Source observation
+2019-04-25,65.23,39,Source observation
+2019-04-26,63.29,41,Source observation
+2019-04-27,63.29,60,Carried forward from previous date
+2019-04-28,63.29,40,Carried forward from previous date
+2019-04-29,63.39,54,Source observation
+2019-04-30,63.83,43,Source observation
+2019-05-01,63.55,52,Source observation
+2019-05-02,61.75,65,Source observation
+2019-05-03,61.98,53,Source observation
+2019-05-04,61.98,48,Carried forward from previous date
+2019-05-05,61.98,50,Carried forward from previous date
+2019-05-06,62.30,49,Source observation
+2019-05-07,61.41,55,Source observation
+2019-05-08,62.13,60,Source observation
+2019-05-09,61.58,50,Source observation
+2019-05-10,61.65,53,Source observation
+2019-05-11,61.65,55,Carried forward from previous date
+2019-05-12,61.65,62,Carried forward from previous date
+2019-05-13,60.97,50,Source observation
+2019-05-14,61.82,38,Source observation
+2019-05-15,62.03,49,Source observation
+2019-05-16,62.93,58,Source observation
+2019-05-17,62.77,51,Source observation
+2019-05-18,62.77,56,Carried forward from previous date
+2019-05-19,62.77,47,Carried forward from previous date
+2019-05-20,63.12,49,Source observation
+2019-05-21,63.02,48,Source observation
+2019-05-22,61.42,40,Source observation
+2019-05-23,57.65,49,Source observation
+2019-05-24,58.40,52,Source observation
+2019-05-25,58.40,52,Carried forward from previous date
+2019-05-26,58.40,60,Carried forward from previous date
+2019-05-27,58.40,56,Carried forward from previous date
+2019-05-28,58.91,43,Source observation
+2019-05-29,58.84,51,Source observation
+2019-05-30,56.47,62,Source observation
+2019-05-31,53.49,50,Source observation
+2019-06-01,53.49,39,Carried forward from previous date
+2019-06-02,53.49,62,Carried forward from previous date
+2019-06-03,53.25,57,Source observation
+2019-06-04,53.50,67,Source observation
+2019-06-05,51.57,59,Source observation
+2019-06-06,52.59,40,Source observation
+2019-06-07,53.95,50,Source observation
+2019-06-08,53.95,52,Carried forward from previous date
+2019-06-09,53.95,46,Carried forward from previous date
+2019-06-10,53.33,55,Source observation
+2019-06-11,53.30,54,Source observation
+2019-06-12,51.13,48,Source observation
+2019-06-13,52.38,41,Source observation
+2019-06-14,52.47,44,Source observation
+2019-06-15,52.47,50,Carried forward from previous date
+2019-06-16,52.47,64,Carried forward from previous date
+2019-06-17,51.94,49,Source observation
+2019-06-18,53.86,45,Source observation
+2019-06-19,53.74,50,Source observation
+2019-06-20,56.88,45,Source observation
+2019-06-21,57.35,45,Source observation
+2019-06-22,57.35,48,Carried forward from previous date
+2019-06-23,57.35,46,Carried forward from previous date
+2019-06-24,57.73,74,Source observation
+2019-06-25,57.63,64,Source observation
+2019-06-26,59.17,52,Source observation
+2019-06-27,59.18,53,Source observation
+2019-06-28,58.20,45,Source observation
+2019-06-29,58.20,61,Carried forward from previous date
+2019-06-30,58.20,52,Carried forward from previous date
+2019-07-01,58.91,58,Source observation
+2019-07-02,56.00,38,Source observation
+2019-07-03,57.06,65,Source observation
+2019-07-04,57.06,50,Carried forward from previous date
+2019-07-05,57.06,61,Carried forward from previous date
+2019-07-06,57.06,56,Carried forward from previous date
+2019-07-07,57.06,46,Carried forward from previous date
+2019-07-08,57.35,44,Source observation
+2019-07-09,57.57,57,Source observation
+2019-07-10,60.28,47,Source observation
+2019-07-11,59.93,51,Source observation
+2019-07-12,59.99,57,Source observation
+2019-07-13,59.99,58,Carried forward from previous date
+2019-07-14,59.99,41,Carried forward from previous date
+2019-07-15,59.30,48,Source observation
+2019-07-16,57.44,48,Source observation
+2019-07-17,56.50,49,Source observation
+2019-07-18,55.08,51,Source observation
+2019-07-19,55.42,40,Source observation
+2019-07-20,55.42,44,Carried forward from previous date
+2019-07-21,55.42,52,Carried forward from previous date
+2019-07-22,55.87,52,Source observation
+2019-07-23,56.58,48,Source observation
+2019-07-24,55.90,47,Source observation
+2019-07-25,55.88,54,Source observation
+2019-07-26,56.04,46,Source observation
+2019-07-27,56.04,38,Carried forward from previous date
+2019-07-28,56.04,49,Carried forward from previous date
+2019-07-29,56.85,51,Source observation
+2019-07-30,58.04,42,Source observation
+2019-07-31,58.53,48,Source observation
+2019-08-01,53.64,58,Source observation
+2019-08-02,55.67,50,Source observation
+2019-08-03,55.67,55,Carried forward from previous date
+2019-08-04,55.67,70,Carried forward from previous date
+2019-08-05,54.63,46,Source observation
+2019-08-06,53.60,50,Source observation
+2019-08-07,51.14,54,Source observation
+2019-08-08,52.60,54,Source observation
+2019-08-09,54.41,49,Source observation
+2019-08-10,54.41,61,Carried forward from previous date
+2019-08-11,54.41,41,Carried forward from previous date
+2019-08-12,54.98,42,Source observation
+2019-08-13,57.05,52,Source observation
+2019-08-14,55.16,51,Source observation
+2019-08-15,54.51,42,Source observation
+2019-08-16,54.83,46,Source observation
+2019-08-17,54.83,58,Carried forward from previous date
+2019-08-18,54.83,59,Carried forward from previous date
+2019-08-19,56.24,50,Source observation
+2019-08-20,56.18,42,Source observation
+2019-08-21,55.65,59,Source observation
+2019-08-22,55.33,38,Source observation
+2019-08-23,54.08,45,Source observation
+2019-08-24,54.08,49,Carried forward from previous date
+2019-08-25,54.08,52,Carried forward from previous date
+2019-08-26,53.54,53,Source observation
+2019-08-27,54.99,50,Source observation
+2019-08-28,55.76,49,Source observation
+2019-08-29,56.67,53,Source observation
+2019-08-30,55.07,59,Source observation
+2019-08-31,55.07,43,Carried forward from previous date
+2019-09-01,55.07,46,Carried forward from previous date
+2019-09-02,55.07,54,Carried forward from previous date
+2019-09-03,53.91,34,Source observation
+2019-09-04,56.22,52,Source observation
+2019-09-05,56.33,49,Source observation
+2019-09-06,56.45,50,Source observation
+2019-09-07,56.45,47,Carried forward from previous date
+2019-09-08,56.45,39,Carried forward from previous date
+2019-09-09,57.88,53,Source observation
+2019-09-10,57.37,40,Source observation
+2019-09-11,55.66,44,Source observation
+2019-09-12,55.13,56,Source observation
+2019-09-13,54.76,49,Source observation
+2019-09-14,54.76,55,Carried forward from previous date
+2019-09-15,54.76,46,Carried forward from previous date
+2019-09-16,63.10,48,Source observation
+2019-09-17,59.26,45,Source observation
+2019-09-18,58.19,63,Source observation
+2019-09-19,58.19,58,Source observation
+2019-09-20,57.92,46,Source observation
+2019-09-21,57.92,53,Carried forward from previous date
+2019-09-22,57.92,45,Carried forward from previous date
+2019-09-23,58.69,44,Source observation
+2019-09-24,57.22,49,Source observation
+2019-09-25,56.38,31,Source observation
+2019-09-26,56.24,55,Source observation
+2019-09-27,55.95,49,Source observation
+2019-09-28,55.95,51,Carried forward from previous date
+2019-09-29,55.95,57,Carried forward from previous date
+2019-09-30,54.09,52,Source observation
+2019-10-01,53.60,56,Source observation
+2019-10-02,52.67,42,Source observation
+2019-10-03,52.41,36,Source observation
+2019-10-04,52.84,47,Source observation
+2019-10-05,52.84,42,Carried forward from previous date
+2019-10-06,52.84,42,Carried forward from previous date
+2019-10-07,52.76,51,Source observation
+2019-10-08,52.64,40,Source observation
+2019-10-09,52.63,43,Source observation
+2019-10-10,53.57,50,Source observation
+2019-10-11,54.76,49,Source observation
+2019-10-12,54.76,32,Carried forward from previous date
+2019-10-13,54.76,42,Carried forward from previous date
+2019-10-14,53.57,52,Source observation
+2019-10-15,52.81,61,Source observation
+2019-10-16,53.42,58,Source observation
+2019-10-17,53.89,59,Source observation
+2019-10-18,53.75,43,Source observation
+2019-10-19,53.75,53,Carried forward from previous date
+2019-10-20,53.75,54,Carried forward from previous date
+2019-10-21,53.28,49,Source observation
+2019-10-22,54.21,39,Source observation
+2019-10-23,55.90,42,Source observation
+2019-10-24,56.11,56,Source observation
+2019-10-25,56.52,43,Source observation
+2019-10-26,56.52,57,Carried forward from previous date
+2019-10-27,56.52,38,Carried forward from previous date
+2019-10-28,55.60,44,Source observation
+2019-10-29,55.34,42,Source observation
+2019-10-30,54.85,66,Source observation
+2019-10-31,54.02,37,Source observation
+2019-11-01,56.04,44,Source observation
+2019-11-02,56.04,43,Carried forward from previous date
+2019-11-03,56.04,36,Carried forward from previous date
+2019-11-04,56.33,41,Source observation
+2019-11-05,57.04,40,Source observation
+2019-11-06,56.15,39,Source observation
+2019-11-07,56.91,40,Source observation
+2019-11-08,57.02,54,Source observation
+2019-11-09,57.02,43,Carried forward from previous date
+2019-11-10,57.02,36,Carried forward from previous date
+2019-11-11,57.02,51,Carried forward from previous date
+2019-11-12,56.67,51,Source observation
+2019-11-13,56.88,37,Source observation
+2019-11-14,56.57,34,Source observation
+2019-11-15,57.54,26,Source observation
+2019-11-16,57.54,36,Carried forward from previous date
+2019-11-17,57.54,42,Carried forward from previous date
+2019-11-18,56.82,19,Source observation
+2019-11-19,54.93,29,Source observation
+2019-11-20,56.71,43,Source observation
+2019-11-21,58.36,33,Source observation
+2019-11-22,57.68,29,Source observation
+2019-11-23,57.68,42,Carried forward from previous date
+2019-11-24,57.68,37,Carried forward from previous date
+2019-11-25,57.79,37,Source observation
+2019-11-26,58.25,39,Source observation
+2019-11-27,58.12,36,Source observation
+2019-11-28,58.12,44,Carried forward from previous date
+2019-11-29,58.12,45,Source observation
+2019-11-30,58.12,40,Carried forward from previous date
+2019-12-01,58.12,30,Carried forward from previous date
+2019-12-02,55.97,41,Source observation
+2019-12-03,56.15,42,Source observation
+2019-12-04,58.46,40,Source observation
+2019-12-05,58.42,32,Source observation
+2019-12-06,59.20,24,Source observation
+2019-12-07,59.20,35,Carried forward from previous date
+2019-12-08,59.20,45,Carried forward from previous date
+2019-12-09,58.99,33,Source observation
+2019-12-10,59.22,34,Source observation
+2019-12-11,58.74,35,Source observation
+2019-12-12,59.18,45,Source observation
+2019-12-13,60.11,43,Source observation
+2019-12-14,60.11,43,Carried forward from previous date
+2019-12-15,60.11,45,Carried forward from previous date
+2019-12-16,60.21,34,Source observation
+2019-12-17,60.88,38,Source observation
+2019-12-18,60.93,39,Source observation
+2019-12-19,61.30,37,Source observation
+2019-12-20,60.43,45,Source observation
+2019-12-21,60.43,35,Carried forward from previous date
+2019-12-22,60.43,43,Carried forward from previous date
+2019-12-23,60.51,42,Source observation
+2019-12-24,61.17,45,Source observation
+2019-12-25,61.17,48,Carried forward from previous date
+2019-12-26,61.72,53,Source observation
+2019-12-27,61.76,21,Source observation
+2019-12-28,61.76,48,Carried forward from previous date
+2019-12-29,61.76,26,Carried forward from previous date
+2019-12-30,61.66,46,Source observation
+2019-12-31,61.14,46,Source observation
+2020-01-01,61.14,58,Carried forward from previous date
+2020-01-02,61.17,38,Source observation
+2020-01-03,63.00,43,Source observation
+2020-01-04,63.00,44,Carried forward from previous date
+2020-01-05,63.00,40,Carried forward from previous date
+2020-01-06,63.27,38,Source observation
+2020-01-07,62.70,45,Source observation
+2020-01-08,59.65,24,Source observation
+2020-01-09,59.56,40,Source observation
+2020-01-10,59.02,37,Source observation
+2020-01-11,59.02,50,Carried forward from previous date
+2020-01-12,59.02,33,Carried forward from previous date
+2020-01-13,58.17,29,Source observation
+2020-01-14,58.34,40,Source observation
+2020-01-15,57.86,39,Source observation
+2020-01-16,58.52,29,Source observation
+2020-01-17,58.55,41,Source observation
+2020-01-18,58.55,47,Carried forward from previous date
+2020-01-19,58.55,43,Carried forward from previous date
+2020-01-20,58.55,46,Carried forward from previous date
+2020-01-21,58.25,35,Source observation
+2020-01-22,56.76,33,Source observation
+2020-01-23,55.51,37,Source observation
+2020-01-24,54.09,44,Source observation
+2020-01-25,54.09,38,Carried forward from previous date
+2020-01-26,54.09,48,Carried forward from previous date
+2020-01-27,53.09,38,Source observation
+2020-01-28,53.33,36,Source observation
+2020-01-29,53.29,32,Source observation
+2020-01-30,52.19,47,Source observation
+2020-01-31,51.58,42,Source observation
+2020-02-01,51.58,36,Carried forward from previous date
+2020-02-02,51.58,45,Carried forward from previous date
+2020-02-03,50.06,40,Source observation
+2020-02-04,49.59,41,Source observation
+2020-02-05,50.87,41,Source observation
+2020-02-06,50.94,42,Source observation
+2020-02-07,50.34,51,Source observation
+2020-02-08,50.34,52,Carried forward from previous date
+2020-02-09,50.34,37,Carried forward from previous date
+2020-02-10,49.59,29,Source observation
+2020-02-11,50.00,41,Source observation
+2020-02-12,51.13,41,Source observation
+2020-02-13,51.41,25,Source observation
+2020-02-14,52.03,33,Source observation
+2020-02-15,52.03,45,Carried forward from previous date
+2020-02-16,52.03,29,Carried forward from previous date
+2020-02-17,52.03,56,Carried forward from previous date
+2020-02-18,52.10,38,Source observation
+2020-02-19,53.31,41,Source observation
+2020-02-20,53.77,58,Source observation
+2020-02-21,53.36,32,Source observation
+2020-02-22,53.36,40,Carried forward from previous date
+2020-02-23,53.36,49,Carried forward from previous date
+2020-02-24,51.36,35,Source observation
+2020-02-25,49.78,41,Source observation
+2020-02-26,48.67,44,Source observation
+2020-02-27,47.17,26,Source observation
+2020-02-28,44.83,45,Source observation
+2020-02-29,44.83,49,Carried forward from previous date
+2020-03-01,44.83,38,Carried forward from previous date
+2020-03-02,46.78,50,Source observation
+2020-03-03,47.27,44,Source observation
+2020-03-04,46.78,33,Source observation
+2020-03-05,45.90,35,Source observation
+2020-03-06,41.14,46,Source observation
+2020-03-07,41.14,36,Carried forward from previous date
+2020-03-08,41.14,61,Carried forward from previous date
+2020-03-09,31.05,35,Source observation
+2020-03-10,34.47,43,Source observation
+2020-03-11,33.13,31,Source observation
+2020-03-12,31.56,42,Source observation
+2020-03-13,31.72,46,Source observation
+2020-03-14,31.72,59,Carried forward from previous date
+2020-03-15,31.72,30,Carried forward from previous date
+2020-03-16,28.96,24,Source observation
+2020-03-17,26.96,34,Source observation
+2020-03-18,20.48,49,Source observation
+2020-03-19,25.09,37,Source observation
+2020-03-20,19.48,43,Source observation
+2020-03-21,19.48,45,Carried forward from previous date
+2020-03-22,19.48,37,Carried forward from previous date
+2020-03-23,23.33,40,Source observation
+2020-03-24,21.03,35,Source observation
+2020-03-25,20.75,32,Source observation
+2020-03-26,16.60,44,Source observation
+2020-03-27,15.48,37,Source observation
+2020-03-28,15.48,42,Carried forward from previous date
+2020-03-29,15.48,37,Carried forward from previous date
+2020-03-30,14.10,44,Source observation
+2020-03-31,20.51,39,Source observation
+2020-04-01,20.28,34,Source observation
+2020-04-02,25.18,54,Source observation
+2020-04-03,28.36,53,Source observation
+2020-04-04,28.36,35,Carried forward from previous date
+2020-04-05,28.36,59,Carried forward from previous date
+2020-04-06,26.21,55,Source observation
+2020-04-07,23.54,39,Source observation
+2020-04-08,24.97,49,Source observation
+2020-04-09,22.90,53,Source observation
+2020-04-10,22.90,53,Carried forward from previous date
+2020-04-11,22.90,49,Carried forward from previous date
+2020-04-12,22.90,52,Carried forward from previous date
+2020-04-13,22.36,48,Source observation
+2020-04-14,20.15,29,Source observation
+2020-04-15,19.96,31,Source observation
+2020-04-16,19.82,59,Source observation
+2020-04-17,18.31,45,Source observation
+2020-04-18,18.31,41,Carried forward from previous date
+2020-04-19,18.31,47,Carried forward from previous date
+2020-04-20,-36.98,54,Source observation
+2020-04-21,8.91,54,Source observation
+2020-04-22,13.64,37,Source observation
+2020-04-23,15.06,47,Source observation
+2020-04-24,15.99,56,Source observation
+2020-04-25,15.99,51,Carried forward from previous date
+2020-04-26,15.99,54,Carried forward from previous date
+2020-04-27,12.17,48,Source observation
+2020-04-28,12.40,53,Source observation
+2020-04-29,15.04,36,Source observation
+2020-04-30,19.23,36,Source observation
+2020-05-01,19.72,42,Source observation
+2020-05-02,19.72,57,Carried forward from previous date
+2020-05-03,19.72,43,Carried forward from previous date
+2020-05-04,20.47,57,Source observation
+2020-05-05,24.56,42,Source observation
+2020-05-06,23.88,55,Source observation
+2020-05-07,23.68,47,Source observation
+2020-05-08,24.73,52,Source observation
+2020-05-09,24.73,55,Carried forward from previous date
+2020-05-10,24.73,40,Carried forward from previous date
+2020-05-11,24.02,59,Source observation
+2020-05-12,25.76,53,Source observation
+2020-05-13,25.37,47,Source observation
+2020-05-14,27.40,60,Source observation
+2020-05-15,29.44,45,Source observation
+2020-05-16,29.44,57,Carried forward from previous date
+2020-05-17,29.44,50,Carried forward from previous date
+2020-05-18,31.83,38,Source observation
+2020-05-19,32.30,55,Source observation
+2020-05-20,33.56,48,Source observation
+2020-05-21,34.30,54,Source observation
+2020-05-22,33.49,40,Source observation
+2020-05-23,33.49,44,Carried forward from previous date
+2020-05-24,33.49,44,Carried forward from previous date
+2020-05-25,33.49,38,Carried forward from previous date
+2020-05-26,34.70,51,Source observation
+2020-05-27,32.80,49,Source observation
+2020-05-28,33.67,49,Source observation
+2020-05-29,35.57,52,Source observation
+2020-05-30,35.57,39,Carried forward from previous date
+2020-05-31,35.57,54,Carried forward from previous date
+2020-06-01,35.49,48,Source observation
+2020-06-02,36.88,56,Source observation
+2020-06-03,37.33,49,Source observation
+2020-06-04,37.42,61,Source observation
+2020-06-05,39.49,45,Source observation
+2020-06-06,39.49,45,Carried forward from previous date
+2020-06-07,39.49,47,Carried forward from previous date
+2020-06-08,38.17,46,Source observation
+2020-06-09,38.98,49,Source observation
+2020-06-10,39.54,56,Source observation
+2020-06-11,36.43,49,Source observation
+2020-06-12,36.24,52,Source observation
+2020-06-13,36.24,53,Carried forward from previous date
+2020-06-14,36.24,55,Carried forward from previous date
+2020-06-15,37.07,46,Source observation
+2020-06-16,38.26,48,Source observation
+2020-06-17,37.91,54,Source observation
+2020-06-18,38.79,49,Source observation
+2020-06-19,39.72,49,Source observation
+2020-06-20,39.72,55,Carried forward from previous date
+2020-06-21,39.72,61,Carried forward from previous date
+2020-06-22,40.60,60,Source observation
+2020-06-23,40.40,58,Source observation
+2020-06-24,37.91,44,Source observation
+2020-06-25,38.66,46,Source observation
+2020-06-26,38.53,74,Source observation
+2020-06-27,38.53,50,Carried forward from previous date
+2020-06-28,38.53,45,Carried forward from previous date
+2020-06-29,39.67,58,Source observation
+2020-06-30,39.27,56,Source observation
+2020-07-01,39.88,36,Source observation
+2020-07-02,40.57,40,Source observation
+2020-07-03,40.57,56,Carried forward from previous date
+2020-07-04,40.57,45,Carried forward from previous date
+2020-07-05,40.57,57,Carried forward from previous date
+2020-07-06,40.51,46,Source observation
+2020-07-07,40.59,65,Source observation
+2020-07-08,40.91,42,Source observation
+2020-07-09,39.64,44,Source observation
+2020-07-10,40.56,49,Source observation
+2020-07-11,40.56,58,Carried forward from previous date
+2020-07-12,40.56,51,Carried forward from previous date
+2020-07-13,40.06,53,Source observation
+2020-07-14,40.30,54,Source observation
+2020-07-15,41.20,51,Source observation
+2020-07-16,40.74,47,Source observation
+2020-07-17,40.55,54,Source observation
+2020-07-18,40.55,52,Carried forward from previous date
+2020-07-19,40.55,46,Carried forward from previous date
+2020-07-20,40.83,57,Source observation
+2020-07-21,41.76,51,Source observation
+2020-07-22,41.88,44,Source observation
+2020-07-23,40.99,48,Source observation
+2020-07-24,41.23,56,Source observation
+2020-07-25,41.23,62,Carried forward from previous date
+2020-07-26,41.23,61,Carried forward from previous date
+2020-07-27,41.46,57,Source observation
+2020-07-28,40.89,50,Source observation
+2020-07-29,41.13,45,Source observation
+2020-07-30,39.85,66,Source observation
+2020-07-31,40.10,57,Source observation
+2020-08-01,40.10,55,Carried forward from previous date
+2020-08-02,40.10,51,Carried forward from previous date
+2020-08-03,40.83,60,Source observation
+2020-08-04,41.67,65,Source observation
+2020-08-05,42.25,47,Source observation
+2020-08-06,41.93,65,Source observation
+2020-08-07,41.16,52,Source observation
+2020-08-08,41.16,64,Carried forward from previous date
+2020-08-09,41.16,50,Carried forward from previous date
+2020-08-10,41.94,50,Source observation
+2020-08-11,41.53,58,Source observation
+2020-08-12,42.60,62,Source observation
+2020-08-13,42.26,46,Source observation
+2020-08-14,42.05,58,Source observation
+2020-08-15,42.05,75,Carried forward from previous date
+2020-08-16,42.05,56,Carried forward from previous date
+2020-08-17,42.89,43,Source observation
+2020-08-18,42.89,56,Source observation
+2020-08-19,42.91,47,Source observation
+2020-08-20,42.62,59,Source observation
+2020-08-21,42.32,41,Source observation
+2020-08-22,42.32,42,Carried forward from previous date
+2020-08-23,42.32,56,Carried forward from previous date
+2020-08-24,42.44,48,Source observation
+2020-08-25,43.17,55,Source observation
+2020-08-26,43.21,45,Source observation
+2020-08-27,42.88,49,Source observation
+2020-08-28,42.96,36,Source observation
+2020-08-29,42.96,48,Carried forward from previous date
+2020-08-30,42.96,51,Carried forward from previous date
+2020-08-31,42.61,42,Source observation
+2020-09-01,42.76,55,Source observation
+2020-09-02,42.76,43,Source observation
+2020-09-03,41.39,45,Source observation
+2020-09-04,39.69,62,Source observation
+2020-09-05,39.69,54,Carried forward from previous date
+2020-09-06,39.69,46,Carried forward from previous date
+2020-09-07,39.69,61,Carried forward from previous date
+2020-09-08,36.87,51,Source observation
+2020-09-09,38.05,50,Source observation
+2020-09-10,37.25,46,Source observation
+2020-09-11,37.33,58,Source observation
+2020-09-12,37.33,57,Carried forward from previous date
+2020-09-13,37.33,62,Carried forward from previous date
+2020-09-14,37.23,38,Source observation
+2020-09-15,38.29,47,Source observation
+2020-09-16,40.17,53,Source observation
+2020-09-17,40.99,56,Source observation
+2020-09-18,41.09,53,Source observation
+2020-09-19,41.09,42,Carried forward from previous date
+2020-09-20,41.09,63,Carried forward from previous date
+2020-09-21,39.26,53,Source observation
+2020-09-22,39.55,55,Source observation
+2020-09-23,39.92,46,Source observation
+2020-09-24,40.11,62,Source observation
+2020-09-25,40.06,60,Source observation
+2020-09-26,40.06,43,Carried forward from previous date
+2020-09-27,40.06,61,Carried forward from previous date
+2020-09-28,40.47,44,Source observation
+2020-09-29,39.03,40,Source observation
+2020-09-30,40.05,57,Source observation
+2020-10-01,38.51,51,Source observation
+2020-10-02,36.90,59,Source observation
+2020-10-03,36.90,64,Carried forward from previous date
+2020-10-04,36.90,51,Carried forward from previous date
+2020-10-05,39.12,51,Source observation
+2020-10-06,40.52,73,Source observation
+2020-10-07,39.82,59,Source observation
+2020-10-08,41.04,61,Source observation
+2020-10-09,40.44,53,Source observation
+2020-10-10,40.44,50,Carried forward from previous date
+2020-10-11,40.44,41,Carried forward from previous date
+2020-10-12,39.22,45,Source observation
+2020-10-13,40.03,41,Source observation
+2020-10-14,40.86,40,Source observation
+2020-10-15,40.84,68,Source observation
+2020-10-16,40.70,47,Source observation
+2020-10-17,40.70,47,Carried forward from previous date
+2020-10-18,40.70,58,Carried forward from previous date
+2020-10-19,40.69,44,Source observation
+2020-10-20,41.37,51,Source observation
+2020-10-21,39.88,60,Source observation
+2020-10-22,40.46,52,Source observation
+2020-10-23,39.73,59,Source observation
+2020-10-24,39.73,63,Carried forward from previous date
+2020-10-25,39.73,46,Carried forward from previous date
+2020-10-26,38.39,60,Source observation
+2020-10-27,39.34,57,Source observation
+2020-10-28,37.27,53,Source observation
+2020-10-29,35.94,41,Source observation
+2020-10-30,35.64,59,Source observation
+2020-10-31,35.64,44,Carried forward from previous date
+2020-11-01,35.64,56,Carried forward from previous date
+2020-11-02,36.60,58,Source observation
+2020-11-03,37.44,50,Source observation
+2020-11-04,38.97,49,Source observation
+2020-11-05,38.56,49,Source observation
+2020-11-06,36.97,43,Source observation
+2020-11-07,36.97,48,Carried forward from previous date
+2020-11-08,36.97,50,Carried forward from previous date
+2020-11-09,40.05,44,Source observation
+2020-11-10,41.18,61,Source observation
+2020-11-11,41.23,55,Source observation
+2020-11-12,40.90,52,Source observation
+2020-11-13,39.93,39,Source observation
+2020-11-14,39.93,35,Carried forward from previous date
+2020-11-15,39.93,35,Carried forward from previous date
+2020-11-16,41.14,33,Source observation
+2020-11-17,41.24,43,Source observation
+2020-11-18,41.64,43,Source observation
+2020-11-19,41.57,41,Source observation
+2020-11-20,41.99,36,Source observation
+2020-11-21,41.99,42,Carried forward from previous date
+2020-11-22,41.99,41,Carried forward from previous date
+2020-11-23,42.91,35,Source observation
+2020-11-24,44.71,31,Source observation
+2020-11-25,45.58,49,Source observation
+2020-11-26,45.58,37,Carried forward from previous date
+2020-11-27,45.58,49,Carried forward from previous date
+2020-11-28,45.58,49,Carried forward from previous date
+2020-11-29,45.58,38,Carried forward from previous date
+2020-11-30,45.20,40,Source observation
+2020-12-01,44.54,37,Source observation
+2020-12-02,45.23,55,Source observation
+2020-12-03,45.65,63,Source observation
+2020-12-04,46.23,53,Source observation
+2020-12-05,46.23,49,Carried forward from previous date
+2020-12-06,46.23,30,Carried forward from previous date
+2020-12-07,45.72,49,Source observation
+2020-12-08,45.64,34,Source observation
+2020-12-09,45.48,40,Source observation
+2020-12-10,46.76,37,Source observation
+2020-12-11,46.59,46,Source observation
+2020-12-12,46.59,39,Carried forward from previous date
+2020-12-13,46.59,38,Carried forward from previous date
+2020-12-14,47.02,42,Source observation
+2020-12-15,47.58,34,Source observation
+2020-12-16,47.86,36,Source observation
+2020-12-17,48.34,48,Source observation
+2020-12-18,49.04,33,Source observation
+2020-12-19,49.04,37,Carried forward from previous date
+2020-12-20,49.04,43,Carried forward from previous date
+2020-12-21,47.79,41,Source observation
+2020-12-22,47.02,38,Source observation
+2020-12-23,47.94,43,Source observation
+2020-12-24,48.18,41,Source observation
+2020-12-25,48.18,40,Carried forward from previous date
+2020-12-26,48.18,54,Carried forward from previous date
+2020-12-27,48.18,41,Carried forward from previous date
+2020-12-28,47.50,34,Source observation
+2020-12-29,47.85,43,Source observation
+2020-12-30,48.24,52,Source observation
+2020-12-31,48.35,42,Source observation
+2021-01-01,48.35,42,Carried forward from previous date
+2021-01-02,48.35,44,Carried forward from previous date
+2021-01-03,48.35,49,Carried forward from previous date
+2021-01-04,47.47,41,Source observation
+2021-01-05,49.78,51,Source observation
+2021-01-06,50.45,50,Source observation
+2021-01-07,50.63,41,Source observation
+2021-01-08,52.14,35,Source observation
+2021-01-09,52.14,44,Carried forward from previous date
+2021-01-10,52.14,37,Carried forward from previous date
+2021-01-11,52.15,42,Source observation
+2021-01-12,53.08,39,Source observation
+2021-01-13,52.81,38,Source observation
+2021-01-14,53.47,43,Source observation
+2021-01-15,52.25,51,Source observation
+2021-01-16,52.25,47,Carried forward from previous date
+2021-01-17,52.25,49,Carried forward from previous date
+2021-01-18,52.25,51,Carried forward from previous date
+2021-01-19,52.87,58,Source observation
+2021-01-20,53.16,57,Source observation
+2021-01-21,53.00,52,Source observation
+2021-01-22,52.28,33,Source observation
+2021-01-23,52.28,38,Carried forward from previous date
+2021-01-24,52.28,30,Carried forward from previous date
+2021-01-25,52.78,52,Source observation
+2021-01-26,52.61,44,Source observation
+2021-01-27,52.81,67,Source observation
+2021-01-28,52.26,49,Source observation
+2021-01-29,52.16,52,Source observation
+2021-01-30,52.16,40,Carried forward from previous date
+2021-01-31,52.16,52,Carried forward from previous date
+2021-02-01,53.55,37,Source observation
+2021-02-02,54.77,36,Source observation
+2021-02-03,55.67,58,Source observation
+2021-02-04,56.19,55,Source observation
+2021-02-05,56.80,48,Source observation
+2021-02-06,56.80,46,Carried forward from previous date
+2021-02-07,56.80,41,Carried forward from previous date
+2021-02-08,57.95,42,Source observation
+2021-02-09,58.34,56,Source observation
+2021-02-10,58.69,38,Source observation
+2021-02-11,58.22,44,Source observation
+2021-02-12,59.50,61,Source observation
+2021-02-13,59.50,48,Carried forward from previous date
+2021-02-14,59.50,55,Carried forward from previous date
+2021-02-15,59.50,64,Carried forward from previous date
+2021-02-16,60.07,43,Source observation
+2021-02-17,61.09,46,Source observation
+2021-02-18,60.40,44,Source observation
+2021-02-19,59.12,45,Source observation
+2021-02-20,59.12,43,Carried forward from previous date
+2021-02-21,59.12,29,Carried forward from previous date
+2021-02-22,61.67,42,Source observation
+2021-02-23,61.66,49,Source observation
+2021-02-24,63.21,44,Source observation
+2021-02-25,63.43,50,Source observation
+2021-02-26,61.55,40,Source observation
+2021-02-27,61.55,45,Carried forward from previous date
+2021-02-28,61.55,26,Carried forward from previous date
+2021-03-01,60.54,47,Source observation
+2021-03-02,59.70,40,Source observation
+2021-03-03,61.33,48,Source observation
+2021-03-04,63.81,51,Source observation
+2021-03-05,66.08,40,Source observation
+2021-03-06,66.08,39,Carried forward from previous date
+2021-03-07,66.08,32,Carried forward from previous date
+2021-03-08,65.03,47,Source observation
+2021-03-09,64.02,53,Source observation
+2021-03-10,64.45,39,Source observation
+2021-03-11,66.02,60,Source observation
+2021-03-12,65.59,46,Source observation
+2021-03-13,65.59,37,Carried forward from previous date
+2021-03-14,65.59,42,Carried forward from previous date
+2021-03-15,65.36,50,Source observation
+2021-03-16,64.82,54,Source observation
+2021-03-17,64.55,43,Source observation
+2021-03-18,59.95,50,Source observation
+2021-03-19,61.43,50,Source observation
+2021-03-20,61.43,39,Carried forward from previous date
+2021-03-21,61.43,46,Carried forward from previous date
+2021-03-22,61.48,46,Source observation
+2021-03-23,57.75,45,Source observation
+2021-03-24,61.12,57,Source observation
+2021-03-25,58.47,55,Source observation
+2021-03-26,60.93,37,Source observation
+2021-03-27,60.93,53,Carried forward from previous date
+2021-03-28,60.93,46,Carried forward from previous date
+2021-03-29,61.49,48,Source observation
+2021-03-30,60.55,59,Source observation
+2021-03-31,59.19,53,Source observation
+2021-04-01,61.41,57,Source observation
+2021-04-02,61.41,52,Carried forward from previous date
+2021-04-03,61.41,67,Carried forward from previous date
+2021-04-04,61.41,58,Carried forward from previous date
+2021-04-05,58.73,54,Source observation
+2021-04-06,59.34,29,Source observation
+2021-04-07,59.77,71,Source observation
+2021-04-08,59.61,66,Source observation
+2021-04-09,59.29,71,Source observation
+2021-04-10,59.29,56,Carried forward from previous date
+2021-04-11,59.29,53,Carried forward from previous date
+2021-04-12,59.70,43,Source observation
+2021-04-13,60.20,48,Source observation
+2021-04-14,63.15,38,Source observation
+2021-04-15,63.42,48,Source observation
+2021-04-16,63.16,60,Source observation
+2021-04-17,63.16,60,Carried forward from previous date
+2021-04-18,63.16,50,Carried forward from previous date
+2021-04-19,63.33,53,Source observation
+2021-04-20,62.61,63,Source observation
+2021-04-21,61.34,57,Source observation
+2021-04-22,61.45,59,Source observation
+2021-04-23,62.18,53,Source observation
+2021-04-24,62.18,59,Carried forward from previous date
+2021-04-25,62.18,46,Carried forward from previous date
+2021-04-26,62.02,47,Source observation
+2021-04-27,63.03,46,Source observation
+2021-04-28,63.81,51,Source observation
+2021-04-29,65.00,41,Source observation
+2021-04-30,63.50,38,Source observation
+2021-05-01,63.50,31,Carried forward from previous date
+2021-05-02,63.50,56,Carried forward from previous date
+2021-05-03,64.46,62,Source observation
+2021-05-04,65.72,44,Source observation
+2021-05-05,65.63,42,Source observation
+2021-05-06,64.73,57,Source observation
+2021-05-07,64.96,60,Source observation
+2021-05-08,64.96,62,Carried forward from previous date
+2021-05-09,64.96,52,Carried forward from previous date
+2021-05-10,64.92,49,Source observation
+2021-05-11,65.31,57,Source observation
+2021-05-12,65.96,57,Source observation
+2021-05-13,63.82,70,Source observation
+2021-05-14,65.32,56,Source observation
+2021-05-15,65.32,46,Carried forward from previous date
+2021-05-16,65.32,43,Carried forward from previous date
+2021-05-17,66.24,44,Source observation
+2021-05-18,65.49,54,Source observation
+2021-05-19,63.28,51,Source observation
+2021-05-20,61.95,50,Source observation
+2021-05-21,63.61,50,Source observation
+2021-05-22,63.61,57,Carried forward from previous date
+2021-05-23,63.61,55,Carried forward from previous date
+2021-05-24,66.13,56,Source observation
+2021-05-25,66.27,47,Source observation
+2021-05-26,66.41,52,Source observation
+2021-05-27,66.87,57,Source observation
+2021-05-28,66.31,43,Source observation
+2021-05-29,66.31,60,Carried forward from previous date
+2021-05-30,66.31,60,Carried forward from previous date
+2021-05-31,66.31,54,Carried forward from previous date
+2021-06-01,67.80,60,Source observation
+2021-06-02,68.79,58,Source observation
+2021-06-03,68.81,62,Source observation
+2021-06-04,69.57,56,Source observation
+2021-06-05,69.57,59,Carried forward from previous date
+2021-06-06,69.57,45,Carried forward from previous date
+2021-06-07,69.21,61,Source observation
+2021-06-08,70.11,59,Source observation
+2021-06-09,69.90,51,Source observation
+2021-06-10,70.34,46,Source observation
+2021-06-11,71.00,62,Source observation
+2021-06-12,71.00,49,Carried forward from previous date
+2021-06-13,71.00,60,Carried forward from previous date
+2021-06-14,70.94,48,Source observation
+2021-06-15,72.06,50,Source observation
+2021-06-16,72.03,58,Source observation
+2021-06-17,71.06,57,Source observation
+2021-06-18,71.64,72,Source observation
+2021-06-19,71.64,51,Carried forward from previous date
+2021-06-20,71.64,51,Carried forward from previous date
+2021-06-21,73.64,60,Source observation
+2021-06-22,73.15,61,Source observation
+2021-06-23,73.11,58,Source observation
+2021-06-24,73.31,53,Source observation
+2021-06-25,74.21,68,Source observation
+2021-06-26,74.21,48,Carried forward from previous date
+2021-06-27,74.21,52,Carried forward from previous date
+2021-06-28,72.98,63,Source observation
+2021-06-29,73.14,50,Source observation
+2021-06-30,73.52,55,Source observation
+2021-07-01,75.33,57,Source observation
+2021-07-02,75.37,60,Source observation
+2021-07-03,75.37,49,Carried forward from previous date
+2021-07-04,75.37,48,Carried forward from previous date
+2021-07-05,75.37,57,Carried forward from previous date
+2021-07-06,73.62,47,Source observation
+2021-07-07,72.22,65,Source observation
+2021-07-08,72.98,49,Source observation
+2021-07-09,74.56,58,Source observation
+2021-07-10,74.56,54,Carried forward from previous date
+2021-07-11,74.56,61,Carried forward from previous date
+2021-07-12,74.21,55,Source observation
+2021-07-13,75.24,45,Source observation
+2021-07-14,73.06,61,Source observation
+2021-07-15,71.67,42,Source observation
+2021-07-16,71.76,47,Source observation
+2021-07-17,71.76,60,Carried forward from previous date
+2021-07-18,71.76,52,Carried forward from previous date
+2021-07-19,66.45,60,Source observation
+2021-07-20,67.32,63,Source observation
+2021-07-21,70.26,57,Source observation
+2021-07-22,72.15,50,Source observation
+2021-07-23,72.24,68,Source observation
+2021-07-24,72.24,42,Carried forward from previous date
+2021-07-25,72.24,54,Carried forward from previous date
+2021-07-26,72.15,57,Source observation
+2021-07-27,71.68,66,Source observation
+2021-07-28,72.37,68,Source observation
+2021-07-29,73.62,47,Source observation
+2021-07-30,73.93,55,Source observation
+2021-07-31,73.93,59,Carried forward from previous date
+2021-08-01,73.93,47,Carried forward from previous date
+2021-08-02,71.31,56,Source observation
+2021-08-03,70.64,54,Source observation
+2021-08-04,68.19,67,Source observation
+2021-08-05,69.10,54,Source observation
+2021-08-06,68.26,61,Source observation
+2021-08-07,68.26,52,Carried forward from previous date
+2021-08-08,68.26,57,Carried forward from previous date
+2021-08-09,66.56,52,Source observation
+2021-08-10,68.33,52,Source observation
+2021-08-11,69.30,40,Source observation
+2021-08-12,69.12,50,Source observation
+2021-08-13,68.36,56,Source observation
+2021-08-14,68.36,55,Carried forward from previous date
+2021-08-15,68.36,50,Carried forward from previous date
+2021-08-16,67.44,43,Source observation
+2021-08-17,66.50,47,Source observation
+2021-08-18,65.36,39,Source observation
+2021-08-19,63.69,43,Source observation
+2021-08-20,62.25,56,Source observation
+2021-08-21,62.25,65,Carried forward from previous date
+2021-08-22,62.25,46,Carried forward from previous date
+2021-08-23,65.65,54,Source observation
+2021-08-24,67.50,50,Source observation
+2021-08-25,68.54,43,Source observation
+2021-08-26,67.42,64,Source observation
+2021-08-27,68.84,64,Source observation
+2021-08-28,68.84,50,Carried forward from previous date
+2021-08-29,68.84,50,Carried forward from previous date
+2021-08-30,69.28,56,Source observation
+2021-08-31,68.43,57,Source observation
+2021-09-01,68.63,49,Source observation
+2021-09-02,70.07,62,Source observation
+2021-09-03,69.34,48,Source observation
+2021-09-04,69.34,53,Carried forward from previous date
+2021-09-05,69.34,54,Carried forward from previous date
+2021-09-06,69.34,43,Carried forward from previous date
+2021-09-07,68.49,51,Source observation
+2021-09-08,69.36,55,Source observation
+2021-09-09,68.26,66,Source observation
+2021-09-10,69.82,51,Source observation
+2021-09-11,69.82,43,Carried forward from previous date
+2021-09-12,69.82,51,Carried forward from previous date
+2021-09-13,70.54,51,Source observation
+2021-09-14,70.53,54,Source observation
+2021-09-15,72.59,59,Source observation
+2021-09-16,72.69,66,Source observation
+2021-09-17,72.09,53,Source observation
+2021-09-18,72.09,68,Carried forward from previous date
+2021-09-19,72.09,58,Carried forward from previous date
+2021-09-20,70.41,56,Source observation
+2021-09-21,70.51,51,Source observation
+2021-09-22,72.37,48,Source observation
+2021-09-23,73.43,49,Source observation
+2021-09-24,74.18,64,Source observation
+2021-09-25,74.18,71,Carried forward from previous date
+2021-09-26,74.18,57,Carried forward from previous date
+2021-09-27,75.54,47,Source observation
+2021-09-28,75.44,59,Source observation
+2021-09-29,75.06,52,Source observation
+2021-09-30,75.22,62,Source observation
+2021-10-01,76.01,57,Source observation
+2021-10-02,76.01,55,Carried forward from previous date
+2021-10-03,76.01,49,Carried forward from previous date
+2021-10-04,77.68,49,Source observation
+2021-10-05,79.17,50,Source observation
+2021-10-06,77.66,61,Source observation
+2021-10-07,78.46,48,Source observation
+2021-10-08,79.55,76,Source observation
+2021-10-09,79.55,66,Carried forward from previous date
+2021-10-10,79.55,52,Carried forward from previous date
+2021-10-11,80.64,32,Source observation
+2021-10-12,80.75,46,Source observation
+2021-10-13,80.67,46,Source observation
+2021-10-14,81.43,63,Source observation
+2021-10-15,82.39,70,Source observation
+2021-10-16,82.39,59,Carried forward from previous date
+2021-10-17,82.39,49,Carried forward from previous date
+2021-10-18,82.62,62,Source observation
+2021-10-19,83.19,46,Source observation
+2021-10-20,84.40,60,Source observation
+2021-10-21,82.64,56,Source observation
+2021-10-22,84.53,50,Source observation
+2021-10-23,84.53,49,Carried forward from previous date
+2021-10-24,84.53,60,Carried forward from previous date
+2021-10-25,84.64,45,Source observation
+2021-10-26,85.64,44,Source observation
+2021-10-27,82.66,47,Source observation
+2021-10-28,82.78,40,Source observation
+2021-10-29,83.50,43,Source observation
+2021-10-30,83.50,53,Carried forward from previous date
+2021-10-31,83.50,53,Carried forward from previous date
+2021-11-01,84.08,69,Source observation
+2021-11-02,83.91,46,Source observation
+2021-11-03,80.82,57,Source observation
+2021-11-04,78.88,51,Source observation
+2021-11-05,81.25,51,Source observation
+2021-11-06,81.25,44,Carried forward from previous date
+2021-11-07,81.25,39,Carried forward from previous date
+2021-11-08,81.96,40,Source observation
+2021-11-09,84.12,53,Source observation
+2021-11-10,81.23,51,Source observation
+2021-11-11,81.47,66,Source observation
+2021-11-12,80.87,37,Source observation
+2021-11-13,80.87,51,Carried forward from previous date
+2021-11-14,80.87,57,Carried forward from previous date
+2021-11-15,80.85,52,Source observation
+2021-11-16,80.76,61,Source observation
+2021-11-17,78.32,62,Source observation
+2021-11-18,78.92,34,Source observation
+2021-11-19,76.11,56,Source observation
+2021-11-20,76.11,62,Carried forward from previous date
+2021-11-21,76.11,57,Carried forward from previous date
+2021-11-22,76.74,61,Source observation
+2021-11-23,78.32,64,Source observation
+2021-11-24,78.32,52,Source observation
+2021-11-25,78.32,62,Carried forward from previous date
+2021-11-26,78.32,63,Carried forward from previous date
+2021-11-27,78.32,52,Carried forward from previous date
+2021-11-28,78.32,46,Carried forward from previous date
+2021-11-29,69.88,57,Source observation
+2021-11-30,66.14,42,Source observation
+2021-12-01,65.44,65,Source observation
+2021-12-02,66.60,49,Source observation
+2021-12-03,66.39,71,Source observation
+2021-12-04,66.39,54,Carried forward from previous date
+2021-12-05,66.39,49,Carried forward from previous date
+2021-12-06,69.62,51,Source observation
+2021-12-07,71.94,75,Source observation
+2021-12-08,72.43,54,Source observation
+2021-12-09,70.87,57,Source observation
+2021-12-10,71.71,58,Source observation
+2021-12-11,71.71,53,Carried forward from previous date
+2021-12-12,71.71,58,Carried forward from previous date
+2021-12-13,71.19,52,Source observation
+2021-12-14,70.57,61,Source observation
+2021-12-15,70.89,62,Source observation
+2021-12-16,72.34,43,Source observation
+2021-12-17,70.93,51,Source observation
+2021-12-18,70.93,57,Carried forward from previous date
+2021-12-19,70.93,62,Carried forward from previous date
+2021-12-20,68.69,51,Source observation
+2021-12-21,71.10,49,Source observation
+2021-12-22,72.82,51,Source observation
+2021-12-23,73.89,54,Source observation
+2021-12-24,73.89,72,Carried forward from previous date
+2021-12-25,73.89,63,Carried forward from previous date
+2021-12-26,73.89,51,Carried forward from previous date
+2021-12-27,75.49,53,Source observation
+2021-12-28,76.01,47,Source observation
+2021-12-29,76.58,55,Source observation
+2021-12-30,76.83,58,Source observation
+2021-12-31,75.33,57,Source observation
+2022-01-01,75.33,48,Carried forward from previous date
+2022-01-02,75.33,55,Carried forward from previous date
+2022-01-03,75.99,49,Source observation
+2022-01-04,77.00,57,Source observation
+2022-01-05,77.83,53,Source observation
+2022-01-06,79.47,49,Source observation
+2022-01-07,79.00,45,Source observation
+2022-01-08,79.00,52,Carried forward from previous date
+2022-01-09,79.00,68,Carried forward from previous date
+2022-01-10,78.11,57,Source observation
+2022-01-11,81.17,52,Source observation
+2022-01-12,82.51,52,Source observation
+2022-01-13,81.97,59,Source observation
+2022-01-14,83.82,55,Source observation
+2022-01-15,83.82,51,Carried forward from previous date
+2022-01-16,83.82,57,Carried forward from previous date
+2022-01-17,83.82,58,Carried forward from previous date
+2022-01-18,85.42,62,Source observation
+2022-01-19,86.84,50,Source observation
+2022-01-20,86.29,55,Source observation
+2022-01-21,85.16,51,Source observation
+2022-01-22,85.16,39,Carried forward from previous date
+2022-01-23,85.16,45,Carried forward from previous date
+2022-01-24,84.48,55,Source observation
+2022-01-25,86.61,69,Source observation
+2022-01-26,88.33,63,Source observation
+2022-01-27,87.61,66,Source observation
+2022-01-28,87.67,56,Source observation
+2022-01-29,87.67,69,Carried forward from previous date
+2022-01-30,87.67,56,Carried forward from previous date
+2022-01-31,89.16,53,Source observation
+2022-02-01,88.22,53,Source observation
+2022-02-02,88.16,56,Source observation
+2022-02-03,90.17,71,Source observation
+2022-02-04,92.27,62,Source observation
+2022-02-05,92.27,62,Carried forward from previous date
+2022-02-06,92.27,54,Carried forward from previous date
+2022-02-07,91.25,48,Source observation
+2022-02-08,89.32,59,Source observation
+2022-02-09,89.57,63,Source observation
+2022-02-10,89.83,54,Source observation
+2022-02-11,93.10,66,Source observation
+2022-02-12,93.10,60,Carried forward from previous date
+2022-02-13,93.10,51,Carried forward from previous date
+2022-02-14,95.52,57,Source observation
+2022-02-15,92.07,57,Source observation
+2022-02-16,93.83,54,Source observation
+2022-02-17,91.78,58,Source observation
+2022-02-18,91.26,60,Source observation
+2022-02-19,91.26,56,Carried forward from previous date
+2022-02-20,91.26,69,Carried forward from previous date
+2022-02-21,91.26,64,Carried forward from previous date
+2022-02-22,92.11,59,Source observation
+2022-02-23,92.14,65,Source observation
+2022-02-24,92.77,51,Source observation
+2022-02-25,91.68,75,Source observation
+2022-02-26,91.68,59,Carried forward from previous date
+2022-02-27,91.68,61,Carried forward from previous date
+2022-02-28,96.13,55,Source observation
+2022-03-01,103.66,47,Source observation
+2022-03-02,110.74,60,Source observation
+2022-03-03,107.69,69,Source observation
+2022-03-04,115.77,64,Source observation
+2022-03-05,115.77,57,Carried forward from previous date
+2022-03-06,115.77,60,Carried forward from previous date
+2022-03-07,119.26,50,Source observation
+2022-03-08,123.64,66,Source observation
+2022-03-09,108.81,52,Source observation
+2022-03-10,105.93,66,Source observation
+2022-03-11,109.31,62,Source observation
+2022-03-12,109.31,52,Carried forward from previous date
+2022-03-13,109.31,75,Carried forward from previous date
+2022-03-14,103.22,64,Source observation
+2022-03-15,96.42,55,Source observation
+2022-03-16,94.85,71,Source observation
+2022-03-17,102.97,42,Source observation
+2022-03-18,104.69,36,Source observation
+2022-03-19,104.69,53,Carried forward from previous date
+2022-03-20,104.69,58,Carried forward from previous date
+2022-03-21,112.14,63,Source observation
+2022-03-22,111.03,64,Source observation
+2022-03-23,114.89,71,Source observation
+2022-03-24,114.20,80,Source observation
+2022-03-25,116.20,62,Source observation
+2022-03-26,116.20,65,Carried forward from previous date
+2022-03-27,116.20,58,Carried forward from previous date
+2022-03-28,107.55,51,Source observation
+2022-03-29,104.25,44,Source observation
+2022-03-30,107.81,38,Source observation
+2022-03-31,100.53,69,Source observation
+2022-04-01,99.32,73,Source observation
+2022-04-02,99.32,68,Carried forward from previous date
+2022-04-03,99.32,71,Carried forward from previous date
+2022-04-04,103.29,66,Source observation
+2022-04-05,101.98,61,Source observation
+2022-04-06,96.39,69,Source observation
+2022-04-07,96.05,69,Source observation
+2022-04-08,98.35,51,Source observation
+2022-04-09,98.35,62,Carried forward from previous date
+2022-04-10,98.35,56,Carried forward from previous date
+2022-04-11,94.22,61,Source observation
+2022-04-12,100.52,66,Source observation
+2022-04-13,104.26,57,Source observation
+2022-04-14,106.84,62,Source observation
+2022-04-15,106.84,71,Carried forward from previous date
+2022-04-16,106.84,54,Carried forward from previous date
+2022-04-17,106.84,69,Carried forward from previous date
+2022-04-18,108.24,61,Source observation
+2022-04-19,102.54,58,Source observation
+2022-04-20,102.56,65,Source observation
+2022-04-21,103.89,51,Source observation
+2022-04-22,102.86,69,Source observation
+2022-04-23,102.86,71,Carried forward from previous date
+2022-04-24,102.86,51,Carried forward from previous date
+2022-04-25,99.60,58,Source observation
+2022-04-26,102.62,77,Source observation
+2022-04-27,101.96,61,Source observation
+2022-04-28,105.47,60,Source observation
+2022-04-29,104.59,66,Source observation
+2022-04-30,104.59,49,Carried forward from previous date
+2022-05-01,104.59,59,Carried forward from previous date
+2022-05-02,105.18,62,Source observation
+2022-05-03,102.53,66,Source observation
+2022-05-04,107.84,58,Source observation
+2022-05-05,108.17,67,Source observation
+2022-05-06,109.72,64,Source observation
+2022-05-07,109.72,59,Carried forward from previous date
+2022-05-08,109.72,58,Carried forward from previous date
+2022-05-09,103.08,67,Source observation
+2022-05-10,99.74,48,Source observation
+2022-05-11,105.50,66,Source observation
+2022-05-12,106.15,62,Source observation
+2022-05-13,110.52,42,Source observation
+2022-05-14,110.52,52,Carried forward from previous date
+2022-05-15,110.52,48,Carried forward from previous date
+2022-05-16,114.07,55,Source observation
+2022-05-17,112.31,65,Source observation
+2022-05-18,109.67,62,Source observation
+2022-05-19,112.21,60,Source observation
+2022-05-20,112.63,62,Source observation
+2022-05-21,112.63,58,Carried forward from previous date
+2022-05-22,112.63,68,Carried forward from previous date
+2022-05-23,110.32,62,Source observation
+2022-05-24,112.55,58,Source observation
+2022-05-25,112.88,45,Source observation
+2022-05-26,116.19,63,Source observation
+2022-05-27,114.96,69,Source observation
+2022-05-28,114.96,67,Carried forward from previous date
+2022-05-29,114.96,62,Carried forward from previous date
+2022-05-30,114.96,69,Carried forward from previous date
+2022-05-31,114.38,60,Source observation
+2022-06-01,115.26,64,Source observation
+2022-06-02,116.88,70,Source observation
+2022-06-03,118.97,60,Source observation
+2022-06-04,118.97,49,Carried forward from previous date
+2022-06-05,118.97,63,Carried forward from previous date
+2022-06-06,118.41,67,Source observation
+2022-06-07,119.55,66,Source observation
+2022-06-08,121.94,63,Source observation
+2022-06-09,121.52,60,Source observation
+2022-06-10,120.73,72,Source observation
+2022-06-11,120.73,57,Carried forward from previous date
+2022-06-12,120.73,63,Carried forward from previous date
+2022-06-13,120.92,42,Source observation
+2022-06-14,118.92,73,Source observation
+2022-06-15,115.32,65,Source observation
+2022-06-16,117.56,69,Source observation
+2022-06-17,109.56,60,Source observation
+2022-06-18,109.56,53,Carried forward from previous date
+2022-06-19,109.56,73,Carried forward from previous date
+2022-06-20,109.56,60,Carried forward from previous date
+2022-06-21,110.49,48,Source observation
+2022-06-22,106.22,64,Source observation
+2022-06-23,105.75,58,Source observation
+2022-06-24,109.07,56,Source observation
+2022-06-25,109.07,72,Carried forward from previous date
+2022-06-26,109.07,62,Carried forward from previous date
+2022-06-27,111.44,71,Source observation
+2022-06-28,113.66,55,Source observation
+2022-06-29,111.65,50,Source observation
+2022-06-30,107.76,77,Source observation
+2022-07-01,110.30,54,Source observation
+2022-07-02,110.30,58,Carried forward from previous date
+2022-07-03,110.30,63,Carried forward from previous date
+2022-07-04,110.30,68,Carried forward from previous date
+2022-07-05,101.55,57,Source observation
+2022-07-06,100.31,57,Source observation
+2022-07-07,104.62,54,Source observation
+2022-07-08,106.78,73,Source observation
+2022-07-09,106.78,53,Carried forward from previous date
+2022-07-10,106.78,56,Carried forward from previous date
+2022-07-11,106.09,60,Source observation
+2022-07-12,97.69,48,Source observation
+2022-07-13,98.44,52,Source observation
+2022-07-14,97.79,81,Source observation
+2022-07-15,99.59,72,Source observation
+2022-07-16,99.59,54,Carried forward from previous date
+2022-07-17,99.59,59,Carried forward from previous date
+2022-07-18,104.48,66,Source observation
+2022-07-19,106.12,53,Source observation
+2022-07-20,104.45,67,Source observation
+2022-07-21,98.44,67,Source observation
+2022-07-22,97.71,62,Source observation
+2022-07-23,97.71,59,Carried forward from previous date
+2022-07-24,97.71,60,Carried forward from previous date
+2022-07-25,99.83,65,Source observation
+2022-07-26,97.74,65,Source observation
+2022-07-27,100.03,61,Source observation
+2022-07-28,99.11,55,Source observation
+2022-07-29,101.31,52,Source observation
+2022-07-30,101.31,62,Carried forward from previous date
+2022-07-31,101.31,55,Carried forward from previous date
+2022-08-01,96.59,61,Source observation
+2022-08-02,97.14,48,Source observation
+2022-08-03,93.25,59,Source observation
+2022-08-04,91.29,62,Source observation
+2022-08-05,91.77,66,Source observation
+2022-08-06,91.77,58,Carried forward from previous date
+2022-08-07,91.77,64,Carried forward from previous date
+2022-08-08,93.52,53,Source observation
+2022-08-09,93.18,54,Source observation
+2022-08-10,94.68,71,Source observation
+2022-08-11,97.02,65,Source observation
+2022-08-12,94.86,69,Source observation
+2022-08-13,94.86,57,Carried forward from previous date
+2022-08-14,94.86,54,Carried forward from previous date
+2022-08-15,92.24,59,Source observation
+2022-08-16,89.23,69,Source observation
+2022-08-17,90.85,72,Source observation
+2022-08-18,93.20,62,Source observation
+2022-08-19,93.55,71,Source observation
+2022-08-20,93.55,65,Carried forward from previous date
+2022-08-21,93.55,59,Carried forward from previous date
+2022-08-22,93.42,48,Source observation
+2022-08-23,96.46,63,Source observation
+2022-08-24,95.52,63,Source observation
+2022-08-25,93.33,71,Source observation
+2022-08-26,93.63,54,Source observation
+2022-08-27,93.63,68,Carried forward from previous date
+2022-08-28,93.63,71,Carried forward from previous date
+2022-08-29,97.40,59,Source observation
+2022-08-30,92.08,57,Source observation
+2022-08-31,90.09,61,Source observation
+2022-09-01,87.09,67,Source observation
+2022-09-02,87.29,67,Source observation
+2022-09-03,87.29,61,Carried forward from previous date
+2022-09-04,87.29,62,Carried forward from previous date
+2022-09-05,87.29,62,Carried forward from previous date
+2022-09-06,87.35,54,Source observation
+2022-09-07,82.50,48,Source observation
+2022-09-08,84.04,56,Source observation
+2022-09-09,87.27,57,Source observation
+2022-09-10,87.27,68,Carried forward from previous date
+2022-09-11,87.27,73,Carried forward from previous date
+2022-09-12,88.18,69,Source observation
+2022-09-13,87.84,61,Source observation
+2022-09-14,88.88,54,Source observation
+2022-09-15,85.72,67,Source observation
+2022-09-16,85.57,71,Source observation
+2022-09-17,85.57,59,Carried forward from previous date
+2022-09-18,85.57,49,Carried forward from previous date
+2022-09-19,86.15,44,Source observation
+2022-09-20,84.69,60,Source observation
+2022-09-21,83.38,72,Source observation
+2022-09-22,84.02,63,Source observation
+2022-09-23,79.07,66,Source observation
+2022-09-24,79.07,63,Carried forward from previous date
+2022-09-25,79.07,73,Carried forward from previous date
+2022-09-26,77.17,54,Source observation
+2022-09-27,78.91,58,Source observation
+2022-09-28,82.61,58,Source observation
+2022-09-29,81.78,70,Source observation
+2022-09-30,79.91,63,Source observation
+2022-10-01,79.91,65,Carried forward from previous date
+2022-10-02,79.91,66,Carried forward from previous date
+2022-10-03,84.05,52,Source observation
+2022-10-04,86.87,56,Source observation
+2022-10-05,88.22,65,Source observation
+2022-10-06,88.90,52,Source observation
+2022-10-07,93.07,59,Source observation
+2022-10-08,93.07,59,Carried forward from previous date
+2022-10-09,93.07,57,Carried forward from previous date
+2022-10-10,91.60,52,Source observation
+2022-10-11,89.75,57,Source observation
+2022-10-12,87.83,64,Source observation
+2022-10-13,89.59,68,Source observation
+2022-10-14,86.10,59,Source observation
+2022-10-15,86.10,60,Carried forward from previous date
+2022-10-16,86.10,58,Carried forward from previous date
+2022-10-17,86.00,63,Source observation
+2022-10-18,83.29,57,Source observation
+2022-10-19,86.00,69,Source observation
+2022-10-20,86.02,58,Source observation
+2022-10-21,85.47,59,Source observation
+2022-10-22,85.47,59,Carried forward from previous date
+2022-10-23,85.47,72,Carried forward from previous date
+2022-10-24,86.12,68,Source observation
+2022-10-25,86.93,62,Source observation
+2022-10-26,89.39,72,Source observation
+2022-10-27,89.06,65,Source observation
+2022-10-28,87.85,78,Source observation
+2022-10-29,87.85,61,Carried forward from previous date
+2022-10-30,87.85,60,Carried forward from previous date
+2022-10-31,86.54,46,Source observation
+2022-11-01,88.36,60,Source observation
+2022-11-02,90.06,61,Source observation
+2022-11-03,88.14,64,Source observation
+2022-11-04,92.58,44,Source observation
+2022-11-05,92.58,59,Carried forward from previous date
+2022-11-06,92.58,51,Carried forward from previous date
+2022-11-07,91.80,55,Source observation
+2022-11-08,88.80,67,Source observation
+2022-11-09,85.79,47,Source observation
+2022-11-10,86.52,57,Source observation
+2022-11-11,89.14,74,Source observation
+2022-11-12,89.14,46,Carried forward from previous date
+2022-11-13,89.14,57,Carried forward from previous date
+2022-11-14,85.85,44,Source observation
+2022-11-15,86.87,50,Source observation
+2022-11-16,85.62,51,Source observation
+2022-11-17,81.69,67,Source observation
+2022-11-18,80.07,52,Source observation
+2022-11-19,80.07,54,Carried forward from previous date
+2022-11-20,80.07,61,Carried forward from previous date
+2022-11-21,79.74,44,Source observation
+2022-11-22,80.83,53,Source observation
+2022-11-23,77.93,50,Source observation
+2022-11-24,77.93,52,Carried forward from previous date
+2022-11-25,76.45,64,Source observation
+2022-11-26,76.45,45,Carried forward from previous date
+2022-11-27,76.45,55,Carried forward from previous date
+2022-11-28,77.10,57,Source observation
+2022-11-29,77.96,55,Source observation
+2022-11-30,80.48,58,Source observation
+2022-12-01,81.06,63,Source observation
+2022-12-02,79.86,59,Source observation
+2022-12-03,79.86,61,Carried forward from previous date
+2022-12-04,79.86,48,Carried forward from previous date
+2022-12-05,76.83,50,Source observation
+2022-12-06,74.21,51,Source observation
+2022-12-07,71.93,53,Source observation
+2022-12-08,71.30,52,Source observation
+2022-12-09,71.05,49,Source observation
+2022-12-10,71.05,56,Carried forward from previous date
+2022-12-11,71.05,48,Carried forward from previous date
+2022-12-12,72.96,54,Source observation
+2022-12-13,75.44,65,Source observation
+2022-12-14,77.14,51,Source observation
+2022-12-15,75.89,57,Source observation
+2022-12-16,74.19,53,Source observation
+2022-12-17,74.19,59,Carried forward from previous date
+2022-12-18,74.19,65,Carried forward from previous date
+2022-12-19,75.05,40,Source observation
+2022-12-20,75.92,60,Source observation
+2022-12-21,78.17,56,Source observation
+2022-12-22,77.68,72,Source observation
+2022-12-23,79.57,51,Source observation
+2022-12-24,79.57,63,Carried forward from previous date
+2022-12-25,79.57,58,Carried forward from previous date
+2022-12-26,79.57,59,Carried forward from previous date
+2022-12-27,79.45,54,Source observation
+2022-12-28,78.89,55,Source observation
+2022-12-29,78.43,43,Source observation
+2022-12-30,80.16,59,Source observation
+2022-12-31,80.16,61,Carried forward from previous date
+2023-01-01,80.16,50,Carried forward from previous date
+2023-01-02,80.16,55,Carried forward from previous date
+2023-01-03,76.87,58,Source observation
+2023-01-04,72.82,57,Source observation
+2023-01-05,73.61,55,Source observation
+2023-01-06,73.77,45,Source observation
+2023-01-07,73.77,58,Carried forward from previous date
+2023-01-08,73.77,51,Carried forward from previous date
+2023-01-09,74.69,61,Source observation
+2023-01-10,75.11,58,Source observation
+2023-01-11,77.46,36,Source observation
+2023-01-12,78.32,46,Source observation
+2023-01-13,79.90,40,Source observation
+2023-01-14,79.90,56,Carried forward from previous date
+2023-01-15,79.90,40,Carried forward from previous date
+2023-01-16,79.90,50,Carried forward from previous date
+2023-01-17,80.25,57,Source observation
+2023-01-18,79.53,60,Source observation
+2023-01-19,80.31,51,Source observation
+2023-01-20,81.27,58,Source observation
+2023-01-21,81.27,55,Carried forward from previous date
+2023-01-22,81.27,61,Carried forward from previous date
+2023-01-23,81.62,57,Source observation
+2023-01-24,79.86,53,Source observation
+2023-01-25,79.78,72,Source observation
+2023-01-26,80.64,51,Source observation
+2023-01-27,79.73,53,Source observation
+2023-01-28,79.73,61,Carried forward from previous date
+2023-01-29,79.73,56,Carried forward from previous date
+2023-01-30,77.97,56,Source observation
+2023-01-31,78.95,63,Source observation
+2023-02-01,76.34,55,Source observation
+2023-02-02,75.87,59,Source observation
+2023-02-03,73.40,64,Source observation
+2023-02-04,73.40,67,Carried forward from previous date
+2023-02-05,73.40,42,Carried forward from previous date
+2023-02-06,74.11,60,Source observation
+2023-02-07,77.17,61,Source observation
+2023-02-08,78.47,66,Source observation
+2023-02-09,78.04,48,Source observation
+2023-02-10,79.74,42,Source observation
+2023-02-11,79.74,53,Carried forward from previous date
+2023-02-12,79.74,63,Carried forward from previous date
+2023-02-13,80.14,63,Source observation
+2023-02-14,79.08,56,Source observation
+2023-02-15,78.57,46,Source observation
+2023-02-16,78.45,72,Source observation
+2023-02-17,76.31,54,Source observation
+2023-02-18,76.31,45,Carried forward from previous date
+2023-02-19,76.31,47,Carried forward from previous date
+2023-02-20,76.31,49,Carried forward from previous date
+2023-02-21,76.28,42,Source observation
+2023-02-22,73.95,76,Source observation
+2023-02-23,75.26,58,Source observation
+2023-02-24,76.19,72,Source observation
+2023-02-25,76.19,47,Carried forward from previous date
+2023-02-26,76.19,64,Carried forward from previous date
+2023-02-27,75.57,64,Source observation
+2023-02-28,76.88,51,Source observation
+2023-03-01,77.57,61,Source observation
+2023-03-02,78.05,54,Source observation
+2023-03-03,79.62,55,Source observation
+2023-03-04,79.62,54,Carried forward from previous date
+2023-03-05,79.62,75,Carried forward from previous date
+2023-03-06,80.39,57,Source observation
+2023-03-07,77.45,65,Source observation
+2023-03-08,76.56,55,Source observation
+2023-03-09,75.60,60,Source observation
+2023-03-10,76.55,47,Source observation
+2023-03-11,76.55,69,Carried forward from previous date
+2023-03-12,76.55,54,Carried forward from previous date
+2023-03-13,74.68,47,Source observation
+2023-03-14,71.18,63,Source observation
+2023-03-15,67.38,64,Source observation
+2023-03-16,68.15,53,Source observation
+2023-03-17,66.61,60,Source observation
+2023-03-18,66.61,63,Carried forward from previous date
+2023-03-19,66.61,62,Carried forward from previous date
+2023-03-20,67.56,52,Source observation
+2023-03-21,69.40,50,Source observation
+2023-03-22,70.71,55,Source observation
+2023-03-23,69.77,58,Source observation
+2023-03-24,69.22,54,Source observation
+2023-03-25,69.22,64,Carried forward from previous date
+2023-03-26,69.22,61,Carried forward from previous date
+2023-03-27,72.87,66,Source observation
+2023-03-28,73.12,57,Source observation
+2023-03-29,72.95,49,Source observation
+2023-03-30,74.32,65,Source observation
+2023-03-31,75.68,63,Source observation
+2023-04-01,75.68,61,Carried forward from previous date
+2023-04-02,75.68,60,Carried forward from previous date
+2023-04-03,80.40,43,Source observation
+2023-04-04,80.70,53,Source observation
+2023-04-05,80.69,54,Source observation
+2023-04-06,80.70,71,Source observation
+2023-04-07,80.70,69,Carried forward from previous date
+2023-04-08,80.70,68,Carried forward from previous date
+2023-04-09,80.70,71,Carried forward from previous date
+2023-04-10,79.79,67,Source observation
+2023-04-11,81.54,66,Source observation
+2023-04-12,83.26,72,Source observation
+2023-04-13,82.16,61,Source observation
+2023-04-14,82.58,62,Source observation
+2023-04-15,82.58,58,Carried forward from previous date
+2023-04-16,82.58,65,Carried forward from previous date
+2023-04-17,80.93,48,Source observation
+2023-04-18,80.85,65,Source observation
+2023-04-19,79.18,55,Source observation
+2023-04-20,77.27,85,Source observation
+2023-04-21,77.86,51,Source observation
+2023-04-22,77.86,71,Carried forward from previous date
+2023-04-23,77.86,53,Carried forward from previous date
+2023-04-24,78.64,65,Source observation
+2023-04-25,77.05,64,Source observation
+2023-04-26,74.33,56,Source observation
+2023-04-27,74.77,59,Source observation
+2023-04-28,76.78,51,Source observation
+2023-04-29,76.78,66,Carried forward from previous date
+2023-04-30,76.78,61,Carried forward from previous date
+2023-05-01,75.65,64,Source observation
+2023-05-02,71.71,57,Source observation
+2023-05-03,68.62,69,Source observation
+2023-05-04,68.52,62,Source observation
+2023-05-05,71.32,49,Source observation
+2023-05-06,71.32,64,Carried forward from previous date
+2023-05-07,71.32,57,Carried forward from previous date
+2023-05-08,73.13,59,Source observation
+2023-05-09,73.68,69,Source observation
+2023-05-10,72.53,56,Source observation
+2023-05-11,70.81,70,Source observation
+2023-05-12,70.02,81,Source observation
+2023-05-13,70.02,60,Carried forward from previous date
+2023-05-14,70.02,63,Carried forward from previous date
+2023-05-15,71.07,70,Source observation
+2023-05-16,70.85,60,Source observation
+2023-05-17,72.78,58,Source observation
+2023-05-18,71.82,58,Source observation
+2023-05-19,71.57,73,Source observation
+2023-05-20,71.57,84,Carried forward from previous date
+2023-05-21,71.57,55,Carried forward from previous date
+2023-05-22,71.81,54,Source observation
+2023-05-23,72.87,62,Source observation
+2023-05-24,74.37,68,Source observation
+2023-05-25,71.68,71,Source observation
+2023-05-26,72.35,59,Source observation
+2023-05-27,72.35,69,Carried forward from previous date
+2023-05-28,72.35,73,Carried forward from previous date
+2023-05-29,72.35,56,Carried forward from previous date
+2023-05-30,69.45,71,Source observation
+2023-05-31,68.11,59,Source observation
+2023-06-01,70.09,71,Source observation
+2023-06-02,71.76,50,Source observation
+2023-06-03,71.76,82,Carried forward from previous date
+2023-06-04,71.76,62,Carried forward from previous date
+2023-06-05,72.14,66,Source observation
+2023-06-06,71.71,53,Source observation
+2023-06-07,72.52,70,Source observation
+2023-06-08,71.28,46,Source observation
+2023-06-09,70.16,62,Source observation
+2023-06-10,70.16,61,Carried forward from previous date
+2023-06-11,70.16,77,Carried forward from previous date
+2023-06-12,67.08,71,Source observation
+2023-06-13,69.39,57,Source observation
+2023-06-14,68.22,41,Source observation
+2023-06-15,70.61,53,Source observation
+2023-06-16,71.81,51,Source observation
+2023-06-17,71.81,68,Carried forward from previous date
+2023-06-18,71.81,51,Carried forward from previous date
+2023-06-19,71.81,71,Carried forward from previous date
+2023-06-20,70.94,52,Source observation
+2023-06-21,72.55,62,Source observation
+2023-06-22,69.22,53,Source observation
+2023-06-23,68.91,64,Source observation
+2023-06-24,68.91,81,Carried forward from previous date
+2023-06-25,68.91,48,Carried forward from previous date
+2023-06-26,69.09,72,Source observation
+2023-06-27,67.68,56,Source observation
+2023-06-28,69.54,64,Source observation
+2023-06-29,69.85,63,Source observation
+2023-06-30,70.66,69,Source observation
+2023-07-01,70.66,71,Carried forward from previous date
+2023-07-02,70.66,59,Carried forward from previous date
+2023-07-03,69.71,50,Source observation
+2023-07-04,69.71,64,Carried forward from previous date
+2023-07-05,71.78,82,Source observation
+2023-07-06,71.76,71,Source observation
+2023-07-07,73.91,78,Source observation
+2023-07-08,73.91,61,Carried forward from previous date
+2023-07-09,73.91,61,Carried forward from previous date
+2023-07-10,73.05,61,Source observation
+2023-07-11,74.87,62,Source observation
+2023-07-12,75.77,54,Source observation
+2023-07-13,76.86,70,Source observation
+2023-07-14,75.44,69,Source observation
+2023-07-15,75.44,70,Carried forward from previous date
+2023-07-16,75.44,64,Carried forward from previous date
+2023-07-17,74.17,55,Source observation
+2023-07-18,75.76,67,Source observation
+2023-07-19,75.40,65,Source observation
+2023-07-20,75.65,72,Source observation
+2023-07-21,77.06,64,Source observation
+2023-07-22,77.06,63,Carried forward from previous date
+2023-07-23,77.06,53,Carried forward from previous date
+2023-07-24,78.81,61,Source observation
+2023-07-25,79.76,59,Source observation
+2023-07-26,79.11,68,Source observation
+2023-07-27,80.17,53,Source observation
+2023-07-28,80.55,71,Source observation
+2023-07-29,80.55,60,Carried forward from previous date
+2023-07-30,80.55,68,Carried forward from previous date
+2023-07-31,81.80,71,Source observation
+2023-08-01,81.37,78,Source observation
+2023-08-02,79.50,75,Source observation
+2023-08-03,81.56,56,Source observation
+2023-08-04,82.76,62,Source observation
+2023-08-05,82.76,57,Carried forward from previous date
+2023-08-06,82.76,70,Carried forward from previous date
+2023-08-07,81.94,61,Source observation
+2023-08-08,82.94,56,Source observation
+2023-08-09,84.35,60,Source observation
+2023-08-10,82.81,63,Source observation
+2023-08-11,83.17,63,Source observation
+2023-08-12,83.17,75,Carried forward from previous date
+2023-08-13,83.17,65,Carried forward from previous date
+2023-08-14,82.50,65,Source observation
+2023-08-15,81.06,46,Source observation
+2023-08-16,79.40,61,Source observation
+2023-08-17,80.43,70,Source observation
+2023-08-18,81.25,58,Source observation
+2023-08-19,81.25,65,Carried forward from previous date
+2023-08-20,81.25,59,Carried forward from previous date
+2023-08-21,80.71,74,Source observation
+2023-08-22,80.25,59,Source observation
+2023-08-23,78.91,59,Source observation
+2023-08-24,79.52,71,Source observation
+2023-08-25,80.47,50,Source observation
+2023-08-26,80.47,78,Carried forward from previous date
+2023-08-27,80.47,46,Carried forward from previous date
+2023-08-28,80.65,63,Source observation
+2023-08-29,81.14,72,Source observation
+2023-08-30,81.64,59,Source observation
+2023-08-31,83.55,58,Source observation
+2023-09-01,85.52,62,Source observation
+2023-09-02,85.52,47,Carried forward from previous date
+2023-09-03,85.52,63,Carried forward from previous date
+2023-09-04,85.52,69,Carried forward from previous date
+2023-09-05,86.74,60,Source observation
+2023-09-06,87.55,70,Source observation
+2023-09-07,86.87,62,Source observation
+2023-09-08,87.51,64,Source observation
+2023-09-09,87.51,66,Carried forward from previous date
+2023-09-10,87.51,66,Carried forward from previous date
+2023-09-11,87.30,48,Source observation
+2023-09-12,88.87,48,Source observation
+2023-09-13,88.59,68,Source observation
+2023-09-14,90.13,76,Source observation
+2023-09-15,90.83,60,Source observation
+2023-09-16,90.83,60,Carried forward from previous date
+2023-09-17,90.83,51,Carried forward from previous date
+2023-09-18,91.47,64,Source observation
+2023-09-19,91.16,66,Source observation
+2023-09-20,89.20,59,Source observation
+2023-09-21,89.56,59,Source observation
+2023-09-22,90.00,87,Source observation
+2023-09-23,90.00,53,Carried forward from previous date
+2023-09-24,90.00,59,Carried forward from previous date
+2023-09-25,89.68,65,Source observation
+2023-09-26,91.43,62,Source observation
+2023-09-27,93.67,63,Source observation
+2023-09-28,91.65,72,Source observation
+2023-09-29,90.77,68,Source observation
+2023-09-30,90.77,66,Carried forward from previous date
+2023-10-01,90.77,62,Carried forward from previous date
+2023-10-02,88.81,67,Source observation
+2023-10-03,89.26,68,Source observation
+2023-10-04,84.32,66,Source observation
+2023-10-05,82.30,62,Source observation
+2023-10-06,82.83,72,Source observation
+2023-10-07,82.83,44,Carried forward from previous date
+2023-10-08,82.83,73,Carried forward from previous date
+2023-10-09,82.83,65,Carried forward from previous date
+2023-10-10,85.89,76,Source observation
+2023-10-11,83.70,56,Source observation
+2023-10-12,82.87,79,Source observation
+2023-10-13,87.67,64,Source observation
+2023-10-14,87.67,59,Carried forward from previous date
+2023-10-15,87.67,60,Carried forward from previous date
+2023-10-16,86.65,52,Source observation
+2023-10-17,86.66,60,Source observation
+2023-10-18,88.35,63,Source observation
+2023-10-19,89.35,58,Source observation
+2023-10-20,89.12,68,Source observation
+2023-10-21,89.12,55,Carried forward from previous date
+2023-10-22,89.12,43,Carried forward from previous date
+2023-10-23,85.49,55,Source observation
+2023-10-24,84.58,61,Source observation
+2023-10-25,86.07,59,Source observation
+2023-10-26,83.80,67,Source observation
+2023-10-27,86.04,50,Source observation
+2023-10-28,86.04,40,Carried forward from previous date
+2023-10-29,86.04,66,Carried forward from previous date
+2023-10-30,83.03,72,Source observation
+2023-10-31,81.64,56,Source observation
+2023-11-01,81.05,57,Source observation
+2023-11-02,83.04,64,Source observation
+2023-11-03,81.19,70,Source observation
+2023-11-04,81.19,35,Carried forward from previous date
+2023-11-05,81.19,41,Carried forward from previous date
+2023-11-06,81.54,50,Source observation
+2023-11-07,77.96,27,Source observation
+2023-11-08,75.85,39,Source observation
+2023-11-09,76.34,57,Source observation
+2023-11-10,76.34,54,Carried forward from previous date
+2023-11-11,76.34,69,Carried forward from previous date
+2023-11-12,76.34,68,Carried forward from previous date
+2023-11-13,78.86,64,Source observation
+2023-11-14,78.90,55,Source observation
+2023-11-15,77.15,57,Source observation
+2023-11-16,73.50,34,Source observation
+2023-11-17,76.47,48,Source observation
+2023-11-18,76.47,61,Carried forward from previous date
+2023-11-19,76.47,47,Carried forward from previous date
+2023-11-20,78.10,63,Source observation
+2023-11-21,78.35,53,Source observation
+2023-11-22,76.80,46,Source observation
+2023-11-23,76.80,52,Carried forward from previous date
+2023-11-24,74.83,56,Source observation
+2023-11-25,74.83,45,Carried forward from previous date
+2023-11-26,74.83,50,Carried forward from previous date
+2023-11-27,74.46,57,Source observation
+2023-11-28,76.09,51,Source observation
+2023-11-29,77.56,45,Source observation
+2023-11-30,75.66,53,Source observation
+2023-12-01,73.70,46,Source observation
+2023-12-02,73.70,49,Carried forward from previous date
+2023-12-03,73.70,60,Carried forward from previous date
+2023-12-04,72.73,51,Source observation
+2023-12-05,71.95,61,Source observation
+2023-12-06,68.98,56,Source observation
+2023-12-07,69.00,51,Source observation
+2023-12-08,70.87,64,Source observation
+2023-12-09,70.87,57,Carried forward from previous date
+2023-12-10,70.87,65,Carried forward from previous date
+2023-12-11,70.95,56,Source observation
+2023-12-12,68.27,46,Source observation
+2023-12-13,69.09,53,Source observation
+2023-12-14,71.21,49,Source observation
+2023-12-15,71.05,62,Source observation
+2023-12-16,71.05,53,Carried forward from previous date
+2023-12-17,71.05,60,Carried forward from previous date
+2023-12-18,72.16,45,Source observation
+2023-12-19,73.23,67,Source observation
+2023-12-20,73.87,51,Source observation
+2023-12-21,73.59,64,Source observation
+2023-12-22,73.29,53,Source observation
+2023-12-23,73.29,59,Carried forward from previous date
+2023-12-24,73.29,48,Carried forward from previous date
+2023-12-25,73.29,58,Carried forward from previous date
+2023-12-26,75.84,63,Source observation
+2023-12-27,74.31,50,Source observation
+2023-12-28,72.02,60,Source observation
+2023-12-29,71.89,65,Source observation
+2023-12-30,71.89,48,Carried forward from previous date
+2023-12-31,71.89,49,Carried forward from previous date
+2024-01-01,71.89,54,Carried forward from previous date
+2024-01-02,70.62,55,Source observation
+2024-01-03,72.97,48,Source observation
+2024-01-04,72.38,59,Source observation
+2024-01-05,74.00,57,Source observation
+2024-01-06,74.00,54,Carried forward from previous date
+2024-01-07,74.00,53,Carried forward from previous date
+2024-01-08,71.06,50,Source observation
+2024-01-09,72.43,46,Source observation
+2024-01-10,71.57,53,Source observation
+2024-01-11,72.15,60,Source observation
+2024-01-12,72.94,57,Source observation
+2024-01-13,72.94,61,Carried forward from previous date
+2024-01-14,72.94,56,Carried forward from previous date
+2024-01-15,72.94,67,Carried forward from previous date
+2024-01-16,72.63,60,Source observation
+2024-01-17,72.79,56,Source observation
+2024-01-18,74.32,50,Source observation
+2024-01-19,73.69,52,Source observation
+2024-01-20,73.69,52,Carried forward from previous date
+2024-01-21,73.69,54,Carried forward from previous date
+2024-01-22,75.26,53,Source observation
+2024-01-23,74.72,49,Source observation
+2024-01-24,75.48,59,Source observation
+2024-01-25,77.91,50,Source observation
+2024-01-26,78.45,64,Source observation
+2024-01-27,78.45,52,Carried forward from previous date
+2024-01-28,78.45,53,Carried forward from previous date
+2024-01-29,77.25,45,Source observation
+2024-01-30,78.30,45,Source observation
+2024-01-31,76.28,61,Source observation
+2024-02-01,74.36,61,Source observation
+2024-02-02,72.72,49,Source observation
+2024-02-03,72.72,51,Carried forward from previous date
+2024-02-04,72.72,43,Carried forward from previous date
+2024-02-05,73.21,50,Source observation
+2024-02-06,73.83,45,Source observation
+2024-02-07,74.26,65,Source observation
+2024-02-08,76.67,56,Source observation
+2024-02-09,77.26,51,Source observation
+2024-02-10,77.26,57,Carried forward from previous date
+2024-02-11,77.26,58,Carried forward from previous date
+2024-02-12,77.34,69,Source observation
+2024-02-13,78.28,46,Source observation
+2024-02-14,77.09,68,Source observation
+2024-02-15,78.47,65,Source observation
+2024-02-16,79.65,68,Source observation
+2024-02-17,79.65,59,Carried forward from previous date
+2024-02-18,79.65,42,Carried forward from previous date
+2024-02-19,79.65,52,Carried forward from previous date
+2024-02-20,78.72,50,Source observation
+2024-02-21,78.89,56,Source observation
+2024-02-22,79.64,45,Source observation
+2024-02-23,77.60,54,Source observation
+2024-02-24,77.60,59,Carried forward from previous date
+2024-02-25,77.60,61,Carried forward from previous date
+2024-02-26,78.53,52,Source observation
+2024-02-27,79.80,56,Source observation
+2024-02-28,79.44,53,Source observation
+2024-02-29,79.22,51,Source observation
+2024-03-01,80.90,46,Source observation
+2024-03-02,80.90,40,Carried forward from previous date
+2024-03-03,80.90,56,Carried forward from previous date
+2024-03-04,79.67,77,Source observation
+2024-03-05,79.11,57,Source observation
+2024-03-06,80.08,40,Source observation
+2024-03-07,79.81,54,Source observation
+2024-03-08,78.96,77,Source observation
+2024-03-09,78.96,58,Carried forward from previous date
+2024-03-10,78.96,53,Carried forward from previous date
+2024-03-11,78.87,67,Source observation
+2024-03-12,78.51,66,Source observation
+2024-03-13,80.67,51,Source observation
+2024-03-14,82.16,72,Source observation
+2024-03-15,81.94,61,Source observation
+2024-03-16,81.94,75,Carried forward from previous date
+2024-03-17,81.94,63,Carried forward from previous date
+2024-03-18,83.68,63,Source observation
+2024-03-19,84.39,51,Source observation
+2024-03-20,82.79,73,Source observation
+2024-03-21,81.99,68,Source observation
+2024-03-22,81.10,61,Source observation
+2024-03-23,81.10,55,Carried forward from previous date
+2024-03-24,81.10,52,Carried forward from previous date
+2024-03-25,82.41,54,Source observation
+2024-03-26,82.41,53,Source observation
+2024-03-27,82.15,61,Source observation
+2024-03-28,83.96,50,Source observation
+2024-03-29,83.96,60,Carried forward from previous date
+2024-03-30,83.96,57,Carried forward from previous date
+2024-03-31,83.96,67,Carried forward from previous date
+2024-04-01,84.54,59,Source observation
+2024-04-02,85.95,65,Source observation
+2024-04-03,86.22,58,Source observation
+2024-04-04,87.37,70,Source observation
+2024-04-05,87.69,57,Source observation
+2024-04-06,87.69,67,Carried forward from previous date
+2024-04-07,87.69,59,Carried forward from previous date
+2024-04-08,87.24,64,Source observation
+2024-04-09,86.04,68,Source observation
+2024-04-10,86.98,62,Source observation
+2024-04-11,85.79,60,Source observation
+2024-04-12,86.46,58,Source observation
+2024-04-13,86.46,74,Carried forward from previous date
+2024-04-14,86.46,65,Carried forward from previous date
+2024-04-15,86.21,54,Source observation
+2024-04-16,86.15,52,Source observation
+2024-04-17,83.58,49,Source observation
+2024-04-18,83.50,50,Source observation
+2024-04-19,83.79,72,Source observation
+2024-04-20,83.79,57,Carried forward from previous date
+2024-04-21,83.79,73,Carried forward from previous date
+2024-04-22,83.82,69,Source observation
+2024-04-23,84.17,62,Source observation
+2024-04-24,84.09,56,Source observation
+2024-04-25,84.92,52,Source observation
+2024-04-26,85.38,47,Source observation
+2024-04-27,85.38,71,Carried forward from previous date
+2024-04-28,85.38,58,Carried forward from previous date
+2024-04-29,84.26,50,Source observation
+2024-04-30,83.49,74,Source observation
+2024-05-01,80.70,62,Source observation
+2024-05-02,80.59,43,Source observation
+2024-05-03,79.65,53,Source observation
+2024-05-04,79.65,76,Carried forward from previous date
+2024-05-05,79.65,65,Carried forward from previous date
+2024-05-06,80.10,60,Source observation
+2024-05-07,79.97,67,Source observation
+2024-05-08,80.57,54,Source observation
+2024-05-09,80.86,59,Source observation
+2024-05-10,79.81,53,Source observation
+2024-05-11,79.81,70,Carried forward from previous date
+2024-05-12,79.81,58,Carried forward from previous date
+2024-05-13,80.71,74,Source observation
+2024-05-14,79.62,64,Source observation
+2024-05-15,80.23,64,Source observation
+2024-05-16,80.85,66,Source observation
+2024-05-17,81.66,55,Source observation
+2024-05-18,81.66,56,Carried forward from previous date
+2024-05-19,81.66,66,Carried forward from previous date
+2024-05-20,81.39,59,Source observation
+2024-05-21,80.66,64,Source observation
+2024-05-22,79.15,63,Source observation
+2024-05-23,77.47,68,Source observation
+2024-05-24,78.48,67,Source observation
+2024-05-25,78.48,66,Carried forward from previous date
+2024-05-26,78.48,70,Carried forward from previous date
+2024-05-27,78.48,62,Carried forward from previous date
+2024-05-28,80.90,69,Source observation
+2024-05-29,80.24,59,Source observation
+2024-05-30,78.96,57,Source observation
+2024-05-31,77.97,57,Source observation
+2024-06-01,77.97,62,Carried forward from previous date
+2024-06-02,77.97,81,Carried forward from previous date
+2024-06-03,75.26,60,Source observation
+2024-06-04,74.27,61,Source observation
+2024-06-05,75.08,59,Source observation
+2024-06-06,76.52,57,Source observation
+2024-06-07,76.53,63,Source observation
+2024-06-08,76.53,66,Carried forward from previous date
+2024-06-09,76.53,76,Carried forward from previous date
+2024-06-10,78.75,65,Source observation
+2024-06-11,78.88,66,Source observation
+2024-06-12,79.56,58,Source observation
+2024-06-13,79.61,57,Source observation
+2024-06-14,79.41,58,Source observation
+2024-06-15,79.41,67,Carried forward from previous date
+2024-06-16,79.41,54,Carried forward from previous date
+2024-06-17,81.33,62,Source observation
+2024-06-18,82.67,52,Source observation
+2024-06-19,82.67,65,Carried forward from previous date
+2024-06-20,83.34,61,Source observation
+2024-06-21,81.71,56,Source observation
+2024-06-22,81.71,54,Carried forward from previous date
+2024-06-23,81.71,56,Carried forward from previous date
+2024-06-24,82.63,65,Source observation
+2024-06-25,81.97,69,Source observation
+2024-06-26,82.19,57,Source observation
+2024-06-27,83.04,80,Source observation
+2024-06-28,82.83,53,Source observation
+2024-06-29,82.83,53,Carried forward from previous date
+2024-06-30,82.83,62,Carried forward from previous date
+2024-07-01,84.70,44,Source observation
+2024-07-02,84.09,76,Source observation
+2024-07-03,85.19,64,Source observation
+2024-07-04,85.19,72,Carried forward from previous date
+2024-07-05,84.44,53,Source observation
+2024-07-06,84.44,59,Carried forward from previous date
+2024-07-07,84.44,69,Carried forward from previous date
+2024-07-08,83.63,65,Source observation
+2024-07-09,82.78,71,Source observation
+2024-07-10,83.39,59,Source observation
+2024-07-11,83.92,70,Source observation
+2024-07-12,83.49,59,Source observation
+2024-07-13,83.49,64,Carried forward from previous date
+2024-07-14,83.49,69,Carried forward from previous date
+2024-07-15,83.22,63,Source observation
+2024-07-16,81.92,64,Source observation
+2024-07-17,84.16,68,Source observation
+2024-07-18,84.17,55,Source observation
+2024-07-19,81.43,59,Source observation
+2024-07-20,81.43,59,Carried forward from previous date
+2024-07-21,81.43,60,Carried forward from previous date
+2024-07-22,81.25,53,Source observation
+2024-07-23,78.24,59,Source observation
+2024-07-24,78.78,62,Source observation
+2024-07-25,79.43,71,Source observation
+2024-07-26,78.58,44,Source observation
+2024-07-27,78.58,67,Carried forward from previous date
+2024-07-28,78.58,57,Carried forward from previous date
+2024-07-29,77.27,67,Source observation
+2024-07-30,76.17,46,Source observation
+2024-07-31,79.36,63,Source observation
+2024-08-01,77.74,50,Source observation
+2024-08-02,74.99,61,Source observation
+2024-08-03,74.99,64,Carried forward from previous date
+2024-08-04,74.99,58,Carried forward from previous date
+2024-08-05,74.46,56,Source observation
+2024-08-06,74.60,59,Source observation
+2024-08-07,76.68,59,Source observation
+2024-08-08,77.64,67,Source observation
+2024-08-09,78.28,58,Source observation
+2024-08-10,78.28,70,Carried forward from previous date
+2024-08-11,78.28,54,Carried forward from previous date
+2024-08-12,81.45,67,Source observation
+2024-08-13,79.81,57,Source observation
+2024-08-14,78.47,52,Source observation
+2024-08-15,79.66,49,Source observation
+2024-08-16,78.05,48,Source observation
+2024-08-17,78.05,46,Carried forward from previous date
+2024-08-18,78.05,50,Carried forward from previous date
+2024-08-19,75.82,53,Source observation
+2024-08-20,75.27,47,Source observation
+2024-08-21,72.76,53,Source observation
+2024-08-22,73.72,48,Source observation
+2024-08-23,75.82,50,Source observation
+2024-08-24,75.82,78,Carried forward from previous date
+2024-08-25,75.82,58,Carried forward from previous date
+2024-08-26,78.40,63,Source observation
+2024-08-27,76.50,75,Source observation
+2024-08-28,75.49,81,Source observation
+2024-08-29,76.90,66,Source observation
+2024-08-30,74.52,62,Source observation
+2024-08-31,74.52,58,Carried forward from previous date
+2024-09-01,74.52,50,Carried forward from previous date
+2024-09-02,74.52,55,Carried forward from previous date
+2024-09-03,71.28,83,Source observation
+2024-09-04,70.11,74,Source observation
+2024-09-05,70.09,62,Source observation
+2024-09-06,68.58,60,Source observation
+2024-09-07,68.58,67,Carried forward from previous date
+2024-09-08,68.58,51,Carried forward from previous date
+2024-09-09,69.65,66,Source observation
+2024-09-10,66.73,67,Source observation
+2024-09-11,68.25,56,Source observation
+2024-09-12,69.89,66,Source observation
+2024-09-13,69.59,63,Source observation
+2024-09-14,69.59,67,Carried forward from previous date
+2024-09-15,69.59,57,Carried forward from previous date
+2024-09-16,71.10,55,Source observation
+2024-09-17,72.16,61,Source observation
+2024-09-18,71.87,73,Source observation
+2024-09-19,72.86,63,Source observation
+2024-09-20,72.72,56,Source observation
+2024-09-21,72.72,60,Carried forward from previous date
+2024-09-22,72.72,62,Carried forward from previous date
+2024-09-23,71.33,75,Source observation
+2024-09-24,72.34,63,Source observation
+2024-09-25,70.42,66,Source observation
+2024-09-26,68.28,56,Source observation
+2024-09-27,68.72,52,Source observation
+2024-09-28,68.72,68,Carried forward from previous date
+2024-09-29,68.72,53,Carried forward from previous date
+2024-09-30,68.75,48,Source observation
+2024-10-01,70.41,59,Source observation
+2024-10-02,70.74,68,Source observation
+2024-10-03,74.33,53,Source observation
+2024-10-04,74.93,62,Source observation
+2024-10-05,74.93,53,Carried forward from previous date
+2024-10-06,74.93,47,Carried forward from previous date
+2024-10-07,77.76,73,Source observation
+2024-10-08,74.26,69,Source observation
+2024-10-09,73.85,56,Source observation
+2024-10-10,76.46,65,Source observation
+2024-10-11,76.11,63,Source observation
+2024-10-12,76.11,68,Carried forward from previous date
+2024-10-13,76.11,63,Carried forward from previous date
+2024-10-14,76.11,55,Carried forward from previous date
+2024-10-15,71.22,65,Source observation
+2024-10-16,70.97,56,Source observation
+2024-10-17,71.26,65,Source observation
+2024-10-18,69.78,65,Source observation
+2024-10-19,69.78,57,Carried forward from previous date
+2024-10-20,69.78,53,Carried forward from previous date
+2024-10-21,71.16,46,Source observation
+2024-10-22,72.84,51,Source observation
+2024-10-23,71.37,41,Source observation
+2024-10-24,70.58,56,Source observation
+2024-10-25,72.02,63,Source observation
+2024-10-26,72.02,47,Carried forward from previous date
+2024-10-27,72.02,57,Carried forward from previous date
+2024-10-28,67.65,48,Source observation
+2024-10-29,67.48,40,Source observation
+2024-10-30,68.91,56,Source observation
+2024-10-31,69.58,45,Source observation
+2024-11-01,69.81,63,Source observation
+2024-11-02,69.81,58,Carried forward from previous date
+2024-11-03,69.81,67,Carried forward from previous date
+2024-11-04,71.83,63,Source observation
+2024-11-05,72.26,67,Source observation
+2024-11-06,71.98,56,Source observation
+2024-11-07,72.69,59,Source observation
+2024-11-08,70.69,60,Source observation
+2024-11-09,70.69,59,Carried forward from previous date
+2024-11-10,70.69,55,Carried forward from previous date
+2024-11-11,70.69,61,Carried forward from previous date
+2024-11-12,68.43,41,Source observation
+2024-11-13,68.76,49,Source observation
